@@ -1,24 +1,42 @@
----
-layout: default
----
+<html>
+<head>
+	<title>Page Not Found</title>
+	<style>
+		#troll {
+			text-align: center;
+			color: #ffffff;
+			background-color: #5b5b5b;
+			border-radius: 25px;
+			padding: 15px;
+			position: absolute;
+			top: 50%;
+			left: 50%;
+			transform: translate(-50%, -50%);
+		}
 
-<style type="text/css" media="screen">
-  .container {
-    margin: 10px auto;
-    max-width: 600px;
-    text-align: center;
-  }
-  h1 {
-    margin: 30px 0;
-    font-size: 4em;
-    line-height: 1;
-    letter-spacing: -1px;
-  }
-</style>
+		#info {
+			text-align: center;
+			color: #ffffff;
+			position: absolute;
+			top: 65%;
+			left: 50%;
+			transform: translate(-50%, -50%);
+		}
+	</style>
+</head>
+<body style="background-color:#000000">
+	<div id="troll">
+		<h1>
+			This content is
+			<br>
+			not avilable in
+			<br>
+			your country.
+		</h1>
+	</div>
 
-<div class="container">
-  <h1>404</h1>
-
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
-</div>
+	<div id="info">
+		(404/"Not Found")
+	</div>
+</body>
+</html>
