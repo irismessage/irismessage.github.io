@@ -16,7 +16,7 @@
 title: Solutions
 email: ""
 description: >- # this means to ignore newlines until "baseurl:"
-  hello world
+  All content CC BY-NC-SA 3.0 unless otherwise stated.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
