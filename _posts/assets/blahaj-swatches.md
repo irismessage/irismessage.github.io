@@ -6,6 +6,6 @@ categories: assets
 comments: true
 ---
 
-[Blåhaj Swatches.aco](Blåhaj_Swatches.aco)
+[Blåhaj Swatches.aco](/assets/Blåhaj_Swatches.aco)
 
 Here's a Photoshop colour palette for the ineffable Blahaj.
