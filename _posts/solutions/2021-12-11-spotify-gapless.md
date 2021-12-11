@@ -3,7 +3,6 @@ layout: post
 title: "Enable gapless playback in Spotify desktop"
 date: 2021-12-11 17:21:38 -0000
 categories: solutions
-comments: true
 ---
 
 Spotify on Windows (I assume Mac and Linux are the same) does have gapless playback but it's pretty well hidden away. Here's how to activate it.
