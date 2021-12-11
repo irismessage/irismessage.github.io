@@ -3,10 +3,11 @@ from pathlib import Path
 
 src = '.bmp'
 dest = '.png'
-
 pwd = Path().resolve()
-for path in pwd.iterdir():
-    if path.suffix == src:
-        command = f'magick convert {path} {path.with_suffix(dest)}'
-        print(command)
-        os.system(command)
+bmp = pwd / 'bmp/'
+
+for path in bmp.iterdir():
+    new_path = pwd.joinpath(path.name).with_suffix(dest)
+    command = f'magick convert {path} {new_path}'
+    print(command)
+    os.system(command)
