@@ -19,15 +19,16 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-github_username: JMcB17
-gitlab:
-    - username: JMcB17
-      instance: gitlab.com
-youtube_channel: UC9uiKKat6M6CBLaXOEsIhcA
-youtube_channel_name: Sgp10
-
 minima:
     date_format: "%Y-%m-%d"
+
+    social_links:
+        github: JMcB17
+        gitlab:
+        - username: JMcB17
+          instance: gitlab.com
+        youtube_channel: UC9uiKKat6M6CBLaXOEsIhcA
+        youtube_channel_name: Sgp10
 
 # Build settings
 markdown: kramdown
