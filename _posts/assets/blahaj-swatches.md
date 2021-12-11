@@ -3,7 +3,6 @@ layout: post
 title: "Colour palette for blahaj!"
 date: 2021-12-11 17:46:22 -0000
 categories: assets
-comments: true
 ---
 
 [Blåhaj Swatches.aco](/assets/Blåhaj_Swatches.aco)

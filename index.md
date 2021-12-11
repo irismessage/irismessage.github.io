@@ -5,6 +5,8 @@
 layout: home
 ---
 
+[**UNDER CONSTRUCTION**](/about)
+
 Categories:
 - Solutions: The namesake of the website. When I can't find a solution to a problem on the web, I'll post it here, like one-sided stackoverflow. [https://xkcd.com/979/](https://xkcd.com/979/)
 - Assets: Random assets I want to share, like github gists but for misc psd files.
