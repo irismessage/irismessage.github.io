@@ -14,8 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Solutions
+author: JMcB
 description: >- # this means to ignore newlines until "baseurl:"
-    All content CC BY-NC-SA 3.0 unless otherwise stated.
+    All content <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a> unless otherwise stated.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
