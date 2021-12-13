@@ -14,15 +14,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Solutions
-author: JMcB
-
-footer_description: >-
-    All content <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a> unless otherwise stated.
-    Powered by <a href="https://jekyllrb.com/">Jekyll</a>.
+author: jmcb
 description: >- # this means to ignore newlines until "baseurl:" 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
+footer_desc: >-
+    All content <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a> unless otherwise stated.
+    Powered by <a href="https://jekyllrb.com/">Jekyll</a>.
+category_descs:
+    solutions: The namesake of the website. When I can't find a solution to a problem on the web, I'll post it here, like one-sided stackoverflow. <https://xkcd.com/979/>
+    assets: Random assets I want to share, like github gists but for miscellaneous .psd files.
+    releases: A digestible feed of projects I'm working on that I want to share, so you don't have to trawl through my repositories and commits etc.
+    blog: uncategorised posts are just general blog posts.
 
 # https://github.com/jekyll/jekyll-seo-tag
 locale: en_GB

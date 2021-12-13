@@ -25,6 +25,8 @@ layout: default
         <h1>Category index for &ldquo;{{ page.title }}&rdquo;</h1>
       {% endif %}
 
+      <p>{{ site.category_descs[page.title] }}<p>
+
       <section>
         <!-- Show post excerpts for the current page -->
         {% for post in paginator.posts limit:paginator.per_page %}
@@ -45,6 +47,8 @@ layout: default
 
       <!-- Pagination is not active -->
       <h1>Category index for &ldquo;{{ page.title }}&rdquo;</h1>
+
+      <p>{{ site.category_descs[page.title] }}</p>
 
       <ul class="post-list">
         <!-- Show excerpts for all posts in this category -->
