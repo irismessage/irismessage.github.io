@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-12-13T18:45:47+00:00</updated><id>/feed.xml</id><title type="html">Solutions</title><subtitle></subtitle><author><name>jmcb</name></author><entry><title type="html">This website!</title><link href="/releases/2021/12/11/solutions.html" rel="alternate" type="text/html" title="This website!" /><published>2021-12-11T18:30:42+00:00</published><updated>2021-12-11T18:30:42+00:00</updated><id>/releases/2021/12/11/solutions</id><content type="html" xml:base="/releases/2021/12/11/solutions.html">&lt;p&gt;The first thing I’ve made to be listed here will be this website itself! It’s still a work in progress but I have a bunch of ideas and I’m sure I’ll have more in the future.&lt;/p&gt;
+
+&lt;p&gt;I’ll also be posting some stuff I’ve made in the releases category retroactively.&lt;/p&gt;</content><author><name>jmcb</name></author><category term="releases" /><category term="website" /><category term="blog" /><category term="meta" /><summary type="html">The first thing I’ve made to be listed here will be this website itself! It’s still a work in progress but I have a bunch of ideas and I’m sure I’ll have more in the future.</summary></entry><entry><title type="html">My top four (4) programming languages</title><link href="/2021/12/11/top-4-langs.html" rel="alternate" type="text/html" title="My top four (4) programming languages" /><published>2021-12-11T18:05:50+00:00</published><updated>2021-12-11T18:05:50+00:00</updated><id>/2021/12/11/top-4-langs</id><content type="html" xml:base="/2021/12/11/top-4-langs.html">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;Work-in-progress and I know programmers can be very opinionated (myself included although I try to express it in a positive way). Feel free to propose suggestions.&lt;/p&gt;
+
+&lt;h3 id=&quot;glossary&quot;&gt;Glossary&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;low-level, &lt;a href=&quot;https://en.wikipedia.org/wiki/High-level_programming_language&quot;&gt;high-level&lt;/a&gt;: the level of abstraction. Machine code like &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;00110111101101011111010000110110&lt;/code&gt;&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; is lower level than Python like &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;print('hello world')&lt;/code&gt;. Higher-level code is generally slower, and easier to understand for humans.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Frontend_and_backend&quot;&gt;frontend, backend&lt;/a&gt; (web): runs in the browser vs. runs on the server&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;numbered-criteria&quot;&gt;Numbered Criteria&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;speed: how fast does it run?&lt;/li&gt;
+  &lt;li&gt;readability: how good is it to read (and write)?&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wiktionary.org/wiki/ubiquitous#English&quot;&gt;ubiquity&lt;/a&gt;: how widely used is it?&lt;/li&gt;
+  &lt;li&gt;applications: range of applications - how many different kinds of program can you write with it?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;the-list&quot;&gt;The list&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.rust-lang.org/&quot;&gt;Rust&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;Rust is a new and massively up-and-coming language. It’s a low-level language that’s more memory-safe, thread-safe, safe in general (it’s much harder to create very dangerous undetected bugs), faster, and far more modern than C.&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;speed: 5/5&lt;/li&gt;
+      &lt;li&gt;readability: 4/5&lt;/li&gt;
+      &lt;li&gt;ubiquity: 2/5&lt;/li&gt;
+      &lt;li&gt;applications: 3/5&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.python.org/&quot;&gt;Python&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;Python is one of the most popular languages - occupying a top three spot with growth of about 10% per month as of 2018.&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; It’s a carefully designed language with a focus on readability. It’s very high level but it can be extended in C and C++ easily as it’s implemented in C. Take &lt;a href=&quot;https://github.com/scipy/scipy&quot;&gt;SciPy&lt;/a&gt; and &lt;a href=&quot;https://github.com/pytorch/pytorch&quot;&gt;PyTorch&lt;/a&gt; for example. It’s my native language and the second one I learnt (love you Scratch). It’s often taught as a first language due to how readable it is - I was taught it at GCSE and in my degree.&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;speed: 2/5&lt;/li&gt;
+      &lt;li&gt;readability: 5/5&lt;/li&gt;
+      &lt;li&gt;ubiquity: 4/5&lt;/li&gt;
+      &lt;li&gt;applications: 3/5&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/C_(programming_language)&quot;&gt;C&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;C is one of the oldest languages still in widespread use. It’s a low-level language that adds a bit more readability to assembly while wrapping it pretty closely.&lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; It’s vital because of its use in a massive number of programs from the Linux kernel to Git to the official implementation of the Python interpreter, not to mention being one of the best languages for embedded systems and microcontrollers, amid &lt;a href=&quot;https://micropython.org/&quot;&gt;attempts to get higher level languages on them&lt;/a&gt;.&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;speed: 4/5&lt;/li&gt;
+      &lt;li&gt;readability: 2/5&lt;/li&gt;
+      &lt;li&gt;ubiquity: 4/5&lt;/li&gt;
+      &lt;li&gt;applications: 4/5&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/JavaScript&quot;&gt;JavaScript&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;JavaScript is strictly called ECMAScript. The guy who invented ripped off Java’s name and is also a bastard in general besides both inventing javascript and giving it a dumb name.&lt;/p&gt;
+
+    &lt;p&gt;Anyway, JavaScript has to make this list due to being the main if not only language for frontend web development, as well as widely used in another applications, mostly web backends, thanks to the &lt;a href=&quot;https://nodejs.org/en/&quot;&gt;Node.js&lt;/a&gt; runtime. It’s high-level but not amazingly well designed.&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;speed: 2/5&lt;/li&gt;
+      &lt;li&gt;readability: 3/5&lt;/li&gt;
+      &lt;li&gt;ubiquity: 4/5&lt;/li&gt;
+      &lt;li&gt;applications: 4/5&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;honourable-mentions&quot;&gt;Honourable mentions&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://go.dev/&quot;&gt;&lt;strong&gt;Go&lt;/strong&gt;&lt;/a&gt; is similar to Rust in that it’s similar to C but newer and better. Go is more focused on the web and can be compiled into JavaScript for frontend development as well.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.ruby-lang.org/en/&quot;&gt;&lt;strong&gt;Ruby&lt;/strong&gt;&lt;/a&gt; is similar to Python. It pre-dated Python and helped inspire it. It’s used in similar applications, like web backends and command line scripts; in fact, it was largely popularised by the &lt;a href=&quot;https://rubyonrails.org/&quot;&gt;Ruby on Rails&lt;/a&gt; web framework. This site actually runs on &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; which is made in Ruby.&lt;/p&gt;
+
+&lt;p&gt;When I think of Ruby I often get a vivid mental image of a gem-shaped object with a hard red membrane and delicious green goop inside. I don’t know if I can explain this or if I should try. Yim yum.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.java.com/&quot;&gt;&lt;strong&gt;Java&lt;/strong&gt;&lt;/a&gt; is a higher-level and object-oriented descendant of C. Essential for Android development. There are a number of similar languages like &lt;a href=&quot;https://docs.microsoft.com/en-us/dotnet/csharp/&quot;&gt;&lt;strong&gt;C#&lt;/strong&gt;&lt;/a&gt; (C Sharp), which is made by M*cros*ft and used in the Unity game engine, and &lt;a href=&quot;https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html&quot;&gt;&lt;strong&gt;Objective-C&lt;/strong&gt;&lt;/a&gt;, which is made and almost exclusively used by Apple. &lt;a href=&quot;https://developer.apple.com/swift/&quot;&gt;&lt;strong&gt;Swift&lt;/strong&gt;&lt;/a&gt;, also made by Apple, is a successor to Objective-C which is essential for iOS development. &lt;a href=&quot;https://en.wikipedia.org/wiki/C%2B%2B&quot;&gt;&lt;strong&gt;C++&lt;/strong&gt;&lt;/a&gt; is another object-oriented C descendent, but it’s not as Java-like the others mentioned because it’s more low-level than them, and backwards compatible with C - most C programs would also be valid C++ programs.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://coffeescript.org/&quot;&gt;CoffeeScript&lt;/a&gt;, &lt;a href=&quot;https://www.typescriptlang.org/&quot;&gt;TypeScript&lt;/a&gt;, React, Vue, Angular, and many others&lt;/strong&gt; are centred around JavaScript.&lt;/p&gt;
+
+&lt;p&gt;CS and TS are both languages that just convert into JavaScript. CS improves the design by adding syntax changes inspired by Python, Ruby, and Haskell, like meaningful indentation. TS improves the design by adding strong typing, as the name suggests. Both of them are pretty good.&lt;/p&gt;
+
+&lt;p&gt;React etc. are less langauges and more frameworks/libraries for JS. What they all somewhat go to show is how much of a strangehold JS has.&lt;/p&gt;
+
+&lt;h2 id=&quot;footnotes&quot;&gt;Footnotes&lt;/h2&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Not valid machine code I just spammed 1 and 0 &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://stackoverflow.blog/2017/09/06/incredible-growth-python/&quot;&gt;https://stackoverflow.blog/2017/09/06/incredible-growth-python/&lt;/a&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.theregister.com/2021/11/10/where_rust_fits_into_linux/&quot;&gt;The joke goes&lt;/a&gt; &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>jmcb</name></author><category term="programming" /><category term="languages" /><category term="opinion" /><summary type="html">Introduction</summary></entry><entry><title type="html">Enable gapless playback in Spotify desktop</title><link href="/solutions/2021/12/11/spotify-gapless.html" rel="alternate" type="text/html" title="Enable gapless playback in Spotify desktop" /><published>2021-12-11T17:21:38+00:00</published><updated>2021-12-11T17:21:38+00:00</updated><id>/solutions/2021/12/11/spotify-gapless</id><content type="html" xml:base="/solutions/2021/12/11/spotify-gapless.html">&lt;p&gt;Spotify on Windows (I assume Mac and Linux are the same) does have gapless playback but it’s pretty well hidden away. Here’s how to activate it.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Open spotify yes&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/assets/spotify-gapless/Screenshot_2021-12-11_172540.png&quot; alt=&quot;yes&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Open Settings&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/assets/spotify-gapless/Screenshot_2021-12-11_172523.png&quot; alt=&quot;Dropdown menu to open Settings&quot; /&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/assets/spotify-gapless/Screenshot_2021-12-11_172551.png&quot; alt=&quot;Settings menu immediately after opening&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Scroll to the bottom and click SHOW ADVANCED SETTINGS&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/assets/spotify-gapless/Screenshot_2021-12-11_172606.png&quot; alt=&quot;Bottom of the Settings Menu&quot; /&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/assets/spotify-gapless/Screenshot_2021-12-11_172618.png&quot; alt=&quot;Settings menu after showing advanced settings&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Scroll to Playback in advanced settings&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/assets/spotify-gapless/Screenshot_2021-12-11_172654.png&quot; alt=&quot;The Playback settings&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Enable ‘Crossfade songs’, but set it to 0 sec. This is the same as gapless playback. Spotify has no setting named ‘gapless’, which is what made it hard to find.&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/assets/spotify-gapless/Screenshot_2021-12-11_172710.png&quot; alt=&quot;Crossfade songs enabled&quot; /&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/assets/spotify-gapless/Screenshot_2021-12-11_172636.png&quot; alt=&quot;Crossfade songs set to 0 sec. Success.&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Gapless playback is an essential feature considering that it was the default on old media like vinyl. Many musicians at the time took advantage of it to add detail to their albums - like the Beetles with tracks 11, 12, and 13 of Abbey Road - and some today continue the tradition, like Neil Cicierega with much of his work. It’s a travesty that VLC on Android still doesn’t have it.&lt;/p&gt;
+
+&lt;p&gt;I especially wanted it on spotify desktop since I’ve been using it as my daily driver - just add &lt;a href=&quot;https://raw.githack.com/mrpond/BlockTheSpot/master/BlockTheSpot.bat&quot;&gt;BlockTheSpot&lt;/a&gt; and add local files for songs that spotify doesn’t have officially.&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading.&lt;/p&gt;</content><author><name>jmcb</name></author><category term="solutions" /><category term="spotify" /><category term="media" /><summary type="html">Spotify on Windows (I assume Mac and Linux are the same) does have gapless playback but it’s pretty well hidden away. Here’s how to activate it.</summary></entry><entry><title type="html">Catch KeyboardInterrupt and gracefully exit a ThreadPoolExecutor in Python</title><link href="/solutions/2021/12/11/executor.html" rel="alternate" type="text/html" title="Catch KeyboardInterrupt and gracefully exit a ThreadPoolExecutor in Python" /><published>2021-12-11T16:43:09+00:00</published><updated>2021-12-11T16:43:09+00:00</updated><id>/solutions/2021/12/11/executor</id><content type="html" xml:base="/solutions/2021/12/11/executor.html">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;The standard library module &lt;a href=&quot;https://docs.python.org/3/library/concurrent.futures.html&quot;&gt;concurrent.futures&lt;/a&gt; in Python 3 provides an easy way to speed up completing a task for every element in a list. I’ve used it for searching every file in a folder for a certain string (check out &lt;a href=&quot;https://docs.python.org/3/library/pathlib.html&quot;&gt;pathlib&lt;/a&gt; too if you don’t use it already) and for downloading every webpage from an index.&lt;/p&gt;
+
+&lt;p&gt;However, it can be scary to try to stop a threaded program while it’s running, with ctrl+c. You might be interrupting not just one but dozens of different subroutines at a bad point and causing issues.&lt;/p&gt;
+
+&lt;p&gt;So, you can try to add a try-catch block like this:&lt;/p&gt;
+
+&lt;div class=&quot;language-py highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;try&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;with&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ThreadPoolExecutor&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;executor&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;executor&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;map&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;func&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;iterables&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;except&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;KeyboardInterrupt&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'Gracefully exiting!'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;executor&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;shutdown&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;cancel_futures&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;True&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'Finished shutting down the thread pool.'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;However, you’ll still get an error message and other unexpected behaivour when you interrupt the program.&lt;/p&gt;
+
+&lt;div class=&quot;language-py highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nb&quot;&gt;Exception&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ignored&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;module&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'threading'&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'/usr/lib/python3.9/threading.py'&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;Traceback&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;most&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;recent&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;call&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;last&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;File&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;/usr/lib/python3.9/threading.py&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;line&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1415&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;_shutdown&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;atexit_call&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;File&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;/usr/lib/python3.9/concurrent/futures/thread.py&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;line&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;31&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;_python_exit&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;t&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;join&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;File&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;/usr/lib/python3.9/threading.py&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;line&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1033&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;join&lt;/span&gt;
+    &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;_wait_for_tstate_lock&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;File&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;/usr/lib/python3.9/threading.py&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;line&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1049&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;_wait_for_tstate_lock&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;elif&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;lock&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;acquire&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;block&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;timeout&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+&lt;span class=&quot;nb&quot;&gt;KeyboardInterrupt&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;I did a lot of googling and attempted fixes before I found the solution. I found the solution by reading the documentation carefully, which should be a lesson to me…&lt;/p&gt;
+
+&lt;p&gt;Reference:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Docs for Executor.map - read carefully &lt;a href=&quot;https://docs.python.org/3/library/concurrent.futures.html#concurrent.futures.Executor.map&quot;&gt;https://docs.python.org/3/library/concurrent.futures.html#concurrent.futures.Executor.map&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Code where I encountered and solved this issue (in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;sync_all_projects&lt;/code&gt;) &lt;a href=&quot;https://github.com/gnu-mirror-unofficial/gnu-mirror/blob/main/mirror.py&quot;&gt;https://github.com/gnu-mirror-unofficial/gnu-mirror/blob/main/mirror.py&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;solution&quot;&gt;Solution&lt;/h2&gt;
+
+&lt;p&gt;The answer is that Executor actually returns a generator immediately - it doesn’t block the calling thread. This means that if you use Executor.map like the code block above, the main thread will finish immediately, and only the Executor’s threads will be keeping the program running. Not a tidy situation. Demo:&lt;/p&gt;
+
+&lt;div class=&quot;language-py highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;with&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ThreadPoolExecutor&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;executor&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;executor&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;map&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;func&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;iterables&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'executor.map already returned.'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;To fix it, iterate over the generator returned by Executor.map. It will block for each Future completed.&lt;/p&gt;
+
+&lt;div class=&quot;language-py highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;try&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;with&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ThreadPoolExecutor&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;executor&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;futures&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;executor&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;map&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;func&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;iterables&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;f&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;future&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+            &lt;span class=&quot;c1&quot;&gt;# you can do anything you want with future here.
+&lt;/span&gt;            &lt;span class=&quot;k&quot;&gt;pass&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;except&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;KeyboardInterrupt&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'Gracefully exiting!'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;executor&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;shutdown&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;cancel_futures&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;True&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'Finished shutting down the thread pool.'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Thanks for reading.&lt;/p&gt;</content><author><name>jmcb</name></author><category term="solutions" /><category term="python" /><category term="threading" /><category term="concurrency" /><summary type="html">Introduction</summary></entry><entry><title type="html">Dual boot Linux automatically on MSI B450 Motherboard</title><link href="/solutions/2021/12/11/dualboot.html" rel="alternate" type="text/html" title="Dual boot Linux automatically on MSI B450 Motherboard" /><published>2021-12-11T15:58:51+00:00</published><updated>2021-12-11T15:58:51+00:00</updated><id>/solutions/2021/12/11/dualboot</id><content type="html" xml:base="/solutions/2021/12/11/dualboot.html">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;When I installed Ubuntu on my PC, I was unable to set it to load Linux first instead of Windows. I could go into the boot selector to do it manually, but this was especially inconvenient as I had an 80% keyboard with no F11 key.&lt;/p&gt;
+
+&lt;p&gt;I couldn’t find a solution on the web but eventually I managed to get one by trial and error (this was actually my inspiration for creating this website, and I started noting down other similar experiences to write help articles on). Here is the solution:&lt;/p&gt;
+
+&lt;p&gt;Reference:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Manual &lt;a href=&quot;https://www.msi.com/Motherboard/B450-TOMAHAWK-MAX/support#down-manual&quot;&gt;https://www.msi.com/Motherboard/B450-TOMAHAWK-MAX/support#down-manual&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Enter BIOS: DEL&lt;/li&gt;
+  &lt;li&gt;Enter boot selection: F11&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;solution&quot;&gt;Solution&lt;/h2&gt;
+
+&lt;p&gt;The way to change the order of bootloaders on a single drive is pretty well hidden away in the BIOS.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Open the BIOS/EUFI menu. You have to restart your PC (hibernate works too) and press the DEL when the first screen pops up.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Enter Advanced mode. The BIOS menu may open in Advanced mode or ‘EZ Mode’. This is what EZ Mode looks like:&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/assets/dualboot/MSI_SnapShot.png&quot; alt=&quot;EZ Mode&quot; /&gt;&lt;/p&gt;
+
+    &lt;p&gt;If you’re in EZ Mode, click where it says &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Advanced (F7)&lt;/code&gt; or &lt;strong&gt;press F7&lt;/strong&gt;, to enter ‘EZ Mode’. &lt;strong&gt;If you’re not in EZ Mode, continue&lt;/strong&gt; to step 3.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Go to SETTINGS&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/assets/dualboot/MSI_SnapShot_01.png&quot; alt=&quot;SETTINGS&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Go to Boot&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/assets/dualboot/MSI_SnapShot_02.png&quot; alt=&quot;Boot&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Here you can see a section called FIXED BOOT ORDER Priorities.&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/assets/dualboot/MSI_SnapShot_03.png&quot; alt=&quot;FIXED BOOT ORDER Priorities&quot; /&gt;&lt;/p&gt;
+
+    &lt;p&gt;This section is the same as the Boot Priority box at the top, it lets you change the order of priority of which device to boot from, like hard drive, CD disc, USB flash drive, etc. The confusing part is that you can’t choose the boot order for different operating systems on a single drive here. The menu to do that is hidden behind a hard-to-understand title. &lt;strong&gt;Scroll down to the option called UEFI Hard Disk Drive BBS Priorities.&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/assets/dualboot/MSI_SnapShot_04.png&quot; alt=&quot;UEFI Hard Disk Drive BBS Priorities&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Once you’re in the UEFI Hard Disk Drive BBS Priorities, you can select Linux as the default OS to boot into.&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/assets/dualboot/MSI_SnapShot_07.png&quot; alt=&quot;The desired menu&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Select the top option and it will let you select what OS to boot by default.&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/assets/dualboot/MSI_SnapShot_06.png&quot; alt=&quot;Select what OS to boot by default&quot; /&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/assets/dualboot/MSI_SnapShot_05.png&quot; alt=&quot;Success!&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;You have now successfully changed the boot order to use GRUB, or whatever other bootloader, as default. Thanks for reading.&lt;/p&gt;</content><author><name>jmcb</name></author><category term="solutions" /><category term="bios" /><category term="uefi" /><category term="linux" /><category term="ubuntu" /><category term="dualboot" /><summary type="html">Introduction</summary></entry></feed>
