@@ -33,4 +33,8 @@ Spotify on Windows (I assume Mac and Linux are the same) does have gapless playb
 
     ![Crossfade songs set to 0 sec. Success.](/assets/spotify-gapless/Screenshot_2021-12-11_172636.png)
 
-Gapless playback is an essential feature considering that it was the default on old media like vinyl. Many musicians at the time took advantage of it to add detail to their albums - like the Beetles with tracks 11, 12, and 13 of Abbey Road - and some today continue the tradition, like Neil Cicierega with much of his work. It's a travesty that VLC on Android still doesn't have it. Thanks for reading.
+Gapless playback is an essential feature considering that it was the default on old media like vinyl. Many musicians at the time took advantage of it to add detail to their albums - like the Beetles with tracks 11, 12, and 13 of Abbey Road - and some today continue the tradition, like Neil Cicierega with much of his work. It's a travesty that VLC on Android still doesn't have it.
+
+I especially wanted it on spotify desktop since I've been using it as my daily driver - just add [BlockTheSpot](https://raw.githack.com/mrpond/BlockTheSpot/master/BlockTheSpot.bat) and add local files for songs that spotify doesn't have officially.
+
+Thanks for reading.

@@ -8,7 +8,10 @@ layout: home
 [**UNDER CONSTRUCTION**](/about)
 
 Categories:
-- Solutions: {{ site.category_descs.solutions }}
-- Assets: {{ site.category_descs.assets }}
-- Releases: {{ site.category_descs.releases }}
+{% comment %}
+    todo: make simpler? a loop?
+{% endcomment %}
+- [Solutions](/category/solutions): {{ site.category_descs.solutions }}
+- [Assets](/category/assets): {{ site.category_descs.assets }}
+- [Releases](/category/releases): {{ site.category_descs.releases }}
 - Blog: {{ site.category_descs.blog }}
