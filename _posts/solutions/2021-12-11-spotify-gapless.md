@@ -1,7 +1,7 @@
 ---
 title: "Enable gapless playback in Spotify desktop"
 date: 2021-12-11 17:21:38 -0000
-categories: solutions
+category: solutions
 tags: spotify media
 ---
 

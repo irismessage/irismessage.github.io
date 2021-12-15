@@ -1,7 +1,7 @@
 ---
 title: "Colour palette for blahaj!"
 date: 2021-12-11 17:46:22 -0000
-category: assets
+category: editing
 tags: blahaj ikea photoshop graphics media
 ---
 
