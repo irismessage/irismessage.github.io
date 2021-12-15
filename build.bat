@@ -1,6 +1,7 @@
 git checkout build
 git merge drafts
-bundle exec jekyll build
+echo "bundle exec jekyll build"
+call bundle exec jekyll build
 Xcopy .\site\category \.category
 git add .
 git commit -m "Build category pages"
