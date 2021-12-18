@@ -7,6 +7,12 @@ layout: default
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
 
+  {% if site.banner %}
+    <div align="center">
+      <img src={{ site.banner.src }} alt={{ site.banner.alt }}>
+    </div>
+  {% endif %}
+
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
