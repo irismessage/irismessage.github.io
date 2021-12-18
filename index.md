@@ -5,9 +5,9 @@
 layout: home
 ---
 
-[**UNDER CONSTRUCTION**](/about)
+# [UNDER CONSTRUCTION](/about)
 
-Categories:
+## Categories
 {% comment %}
     todo: make simpler? a loop?
 {% endcomment %}

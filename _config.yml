@@ -15,18 +15,32 @@
 # in the templates via {{ site.myvariable }}.
 title: Solutions
 author: jmcb
+email: joelsgp@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:" 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+    - jekyll-feed
+    - jekyll-category-pages
+
 footer_desc: >-
-    All content <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a> unless otherwise stated.
-    Powered by <a href="https://jekyllrb.com/">Jekyll</a>.
+    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a> on all content unless otherwise stated. <br>
+    <a href="https://jekyllrb.com/">Jekyll</a> powered. <br>
+    <a href="https://github.com/joelsgp/joelsgp.github.io/">Source</a> on GitHub.
 category_descs:
     solutions: The namesake of the website. When I can't find a solution to a problem on the web, I'll post it here, like one-sided stackoverflow. <https://xkcd.com/979/>
     assets: Random assets I want to share, like github gists but for miscellaneous .psd files.
     releases: A digestible feed of projects I'm working on that I want to share, so you don't have to trawl through my repositories and commits etc.
     blog: uncategorised posts are just general blog posts.
+category_path: category
+
+banner:
+    src: "/assets/images/gaming-ready-pcs.jpg"
+    alt: REAL
 
 # https://github.com/jekyll/jekyll-seo-tag
 locale: en_GB
@@ -36,19 +50,14 @@ minima:
     date_format: "%Y-%m-%d"
 
     social_links:
-        github: JMcB17
+        github: joelsgp
         gitlab:
-        - username: JMcB17
+        - username: joelsgp
           instance: gitlab.com
         youtube_channel: UC9uiKKat6M6CBLaXOEsIhcA
         youtube_channel_name: Sgp10
 
-# Build settings
-markdown: kramdown
-theme: minima
-plugins:
-    - jekyll-feed
-    - jekyll-category-pages
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
