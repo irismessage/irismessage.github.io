@@ -5,8 +5,6 @@ category: solutions
 tags: emulation mobile app android retroarch games
 ---
 
-**WORK IN PROGRESS**
-
 ## Summary
 
 - Set start directory in `Settings/Directory/File Browser`
