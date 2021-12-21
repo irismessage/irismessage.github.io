@@ -1,7 +1,7 @@
 ---
 title: "How to run King's Quit on emulator without a disk"
 date: 2021-12-21 17:07:12 -0000
-tags: games media dosbox retro sierra vinesauce rev revscarecrow kingsquit kingsquest
+tags: games media dosbox retro sierra vinesauce rev revscarecrow vinesauce kingsquit kingsquest rom romhack cdrom
 ---
 
 ## Introduction
@@ -32,7 +32,7 @@ Use any one of these links.
 
 - Google Drive <https://drive.google.com/file/d/17yj5dSYcNA3J0ESEOEW6YJrk_W6BZ-tg/view?usp=sharing>
 
-    Credit to `Tequila#0015` on the Space Quest Historian discord for the link, SQH himself for making a video with the information in it, and Rev himself for directing me to the video. <https://youtu.be/K6zUt9fO9_s?t=1281>
+    Credit to `Tequila#0015` on the Space Quest Historian discord for the link, SQH himself for making a video with the information in it, and Rev himself for directing me to the video by email. <https://youtu.be/K6zUt9fO9_s?t=1281>
 
 - Internet Archive <https://archive.org/details/audio001-kq5-sierraoriginals>
     - Direct link <https://archive.org/download/audio001-kq5-sierraoriginals/AUDIO001.002>
@@ -50,6 +50,59 @@ Use any one of these links.
 
 2. Install DOSBox.
 
-    Link: <https://www.dosbox.com/download.php?main=1>
+    - Link: <https://www.dosbox.com/download.php?main=1>
+    - Direct link: <https://sourceforge.net/projects/dosbox/files/dosbox/0.74-3/DOSBox0.74-3-win32-installer.exe/download>
 
     DOSBox is an emulator for MS-DOS, an old kind of computer. This will allow you to run the game.
+
+    Once you've installed it, run it and it should look like this.
+
+    ![DOSBox after launching](/assets/images/kings-quit/Screenshot_2021-12-21_181306.png)
+
+3. Modify the game files.
+
+    You should have a .zip file and an AUDIO001.002 file in your game folder.
+
+    ![Game folder with two files](/assets/images/kings-quit/Screenshot_2021-12-21_181557.png)
+
+    1. Extract the .zip file.
+
+    ![.zip file extracted](/assets/images/kings-quit/Screenshot_2021-12-21_18.png)
+
+    2. Move the AUDIO001.002 file into the extracted folder. If windows tells you it's a duplicated, select replace.
+
+    ![](/assets/images/kings-quit/Screenshot_2021-12-21_18.png)
+
+4. Install the game in DOSBox like normal
+
+    1. Create a folder which will be used as a virtual hard drive by dosbox.
+
+    2. In dosbox, run these commands.
+
+    ```dosbatch
+    mount c C:\Users\joelm\dos\harddrive
+    mount d C\Users\joelm\dos\KQ5
+    d:
+    install
+    ```
+
+    ![](/assets/images/kings-quit/Screenshot_2021-12-21_18.png)
+
+    3. This opens an ancient-looking installer window for the game. Follow the instructions to install (enter, c, down, enter, enter, enter, n, enter, enter, enter).
+
+    4. You can now run the command `kq5` to play the game. Congratulations!
+
+5. If you want to make it easier to play the game without setup each time you launch it, search for 'DOSBox Options' and add these lines to the end of the configuration file.
+
+    ```dosbatch
+    # Lines in this section will be run at startup.
+    # You can put your MOUNT lines here.
+    MOUNT c C:\Users\joelm\dos\harddrive
+    MOUNT d C:\Users\joelm\dos\KQ5
+    c:
+    dir
+    cd SIERRA
+    dir
+    ```
+
+Thanks for reading!
