@@ -20,7 +20,7 @@ I've sourced and mirrored these files so that you can download them easily. I'm 
 
 Use any one of these links.
 
-- This website [/assets/KQ5.zip](/assets/KQ5.zip)
+- This website [KQ5.zip](https://github.com/joelsgp/joelsgp.github.io/raw/main/assets/KQ5.zip)
 
     My mirror removes the original audio file, as you will be replacing it. It also removes the floppy disk version, which isn't the one we need. The download size is about 10MB.
 
