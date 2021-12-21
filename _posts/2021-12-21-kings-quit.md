@@ -54,7 +54,7 @@ Use any one of these links.
 
 **You can also refer to this video I recorded which shows the same steps as well as the result.**
 
-**https://youtu.be/hTegGQ8nc2g**
+**<https://youtu.be/hTegGQ8nc2g>**
 
 1. Create a folder to install the game in. I use `C:\Users\joelm\dos`, a directory named `dos` that I created in my user folder. If you keep the folder address short by creating it directly in your user folder, it makes using DOSBox easier.
 
