@@ -12,7 +12,7 @@ This article has been a fair undertaking and is currently a work in progress. I'
 
 To play King's Quit you need any normal release of the 1991 multimedia version, and the audio resource file from the obscure 1995 SierraOriginals release. The SierraOriginals version is the *only* version with the unique audio resource file which makes the glitch work.
 
-I've sourced and mirrored these files so that you can download them easily. The total download size is about 200MB. I'm currently personally seeding the torrent files if you want faster download from archive.org.
+I've sourced and mirrored these files so that you can download them easily. I'm currently personally seeding the torrent files if you want faster download from archive.org.
 
 ### Downloads
 
@@ -22,11 +22,15 @@ Use any one of these links.
 
 - This website [/assets/KQ5.zip](/assets/KQ5.zip)
 
-    My mirror removes the original audio file, as you will be replacing it. This reduces the download size by about 50MB.
+    My mirror removes the original audio file, as you will be replacing it. It also removes the floppy disk version, which isn't the one we need. The download size is about 10MB.
 
-- Internet Archive <https://archive.org/details/msdos_Kings_Quest_V_-_Absence_Makes_the_Heart_Go_Yonder_1990>
-    - Direct link <https://archive.org/download/msdos_Kings_Quest_V_-_Absence_Makes_the_Heart_Go_Yonder_1990/Kings_Quest_V_-_Absence_Makes_the_Heart_Go_Yonder_1990.zip>
-    - Torrent link <https://archive.org/download/msdos_Kings_Quest_V_-_Absence_Makes_the_Heart_Go_Yonder_1990/msdos_Kings_Quest_V_-_Absence_Makes_the_Heart_Go_Yonder_1990_archive.torrent>
+- Internet Archive <https://archive.org/details/KingsQuestV-roverinfo>
+    - Direct link <https://archive.org/compress/KingsQuestV-roverinfo/formats=7Z&file=/KingsQuestV-roverinfo.zip>
+    - Torrent link <https://archive.org/download/KingsQuestV-roverinfo/KingsQuestV-roverinfo_archive.torrent>
+
+    If you use one of these, you'll have to find and extract the CD version folder. You'll need [7ZIP](https://www.7-zip.org/download.html) to deal with the .7z and .iso files. The download size is about 50MB for the zip, and about 400MB for the torrent, which includes archive.org thumbnails and stuff (you can skip them and just get the bits you need if you use a good torrent client though).
+
+    There's [another version on archive.org](https://archive.org/details/msdos_Kings_Quest_V_-_Absence_Makes_the_Heart_Go_Yonder_1990) which doesn't work with this quite right for some reason. It just won't play the audio at all if you do a partial install. You can also get the game on [GOG](https://www.gog.com/game/kings_quest_4_5_6) and [Steam](https://store.steampowered.com/app/10100/Kings_Quest_Collection/). I haven't tested those,  but they should work in theory because the files are all the same as the original 1991 release.
 
 #### Unique 1995 audio file
 
