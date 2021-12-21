@@ -67,15 +67,31 @@ Use any one of these links.
 
     1. Extract the .zip file.
 
-    ![.zip file extracted](/assets/images/kings-quit/Screenshot_2021-12-21_18.png)
+    ![.zip file extracted](/assets/images/kings-quit/Screenshot_2021-12-21_184154.png)
 
     2. Move the AUDIO001.002 file into the extracted folder. If windows tells you it's a duplicated, select replace.
 
-    ![](/assets/images/kings-quit/Screenshot_2021-12-21_18.png)
+    ![Select the audio file](/assets/images/kings-quit/Screenshot_2021-12-21_184227.png)
+
+    ![Move the audio file](/assets/images/kings-quit/Screenshot_2021-12-21_184242.png)
+
+    ![Replace the audio file](/assets/images/kings-quit/Screenshot_2021-12-21_184254.png)
+
+    ![Audio file moved success](/assets/images/kings-quit/Screenshot_2021-12-21_184310.png)
+
+    This screenshot shows the file in place after replacement.
+
+    ![The file in place after replacement](/assets/images/kings-quit/Screenshot_2021-12-21_184332.png)
+
+    The original file is about 94KB. The replacement file is about 117KB.
 
 4. Install the game in DOSBox like normal
 
     1. Create a folder which will be used as a virtual hard drive by dosbox.
+
+    ![New folder](/assets/images/kings-quit/Screenshot_2021-12-21_184349.png)
+
+    ![Give the folder a name](/assets/images/kings-quit/Screenshot_2021-12-21_184408.png)
 
     2. In dosbox, run these commands.
 
@@ -86,9 +102,15 @@ Use any one of these links.
     install
     ```
 
-    ![](/assets/images/kings-quit/Screenshot_2021-12-21_18.png)
+    ![Running the above commands in dosbox](/assets/images/kings-quit/Screenshot_2021-12-21_184600.png)
 
     3. This opens an ancient-looking installer window for the game. Follow the instructions to install (enter, c, down, enter, enter, enter, n, enter, enter, enter).
+
+    ![Installer start](/assets/images/kings-quit/Screenshot_2021-12-21_184615.png)
+
+    Skip a few...
+
+    ![99 100](/assets/images/kings-quit/Screenshot_2021-12-21_184727.png)
 
     4. You can now run the command `kq5` to play the game. Congratulations!
 
@@ -104,5 +126,9 @@ Use any one of these links.
     cd SIERRA
     dir
     ```
+
+    ![Dosbox config before edit](/assets/images/kings-quit/Screenshot_2021-12-21_184823.png)
+
+    ![Dosbox config after edit](/assets/images/kings-quit/Screenshot_2021-12-21_184859.png)
 
 Thanks for reading!
