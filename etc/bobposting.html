@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>BOB fansite</title>
+        <meta property="og:site_name" content="Angelfire">
+        <meta property="og:title" content="BOB fansite">
+        <meta property="og:description" content="Home of Challenge Bobposting">
+        <meta property="og:image" content="">
+
+        <style>
+            body {
+                color: #3cfb34;
+                background-color: black;
+                text-align: center;
+            }
+            a:link {
+                color: #2400ff;
+            }
+            a:visited {
+                color: red;
+            }
+        </style>
+
+        <script type="text/javascript">
+            function loadGifs() {
+                let gifsDiv = document.getElementById("new-gif")
+                for (let i = 0; i < 40; i++) {
+                    let img = document.createElement("img")
+                    img.src = "/assets/images/bob/newblue.gif"
+                    gifsDiv.appendChild(img)
+                }
+            }
+
+            window.onload = loadGifs
+        </script>
+    </head>
+
+    <body>
+        <h1>Welcome To my BOB fan page</h1>
+        <div id="new-gif"></div>
+        <p>
+            Remember to BOOK MARK this page now and tell all your friends about it!!!!<br>
+            Be sure to check back soon for new updates!!!!
+        </p>
+        <p>
+            <img src="/assets/images/bob/newblue.gif">
+            <img src="/assets/images/bob/bobkickass.gif">
+            <img src="/assets/images/bob/newblue.gif">
+        </p>
+    </body>
+</html>

@@ -28,7 +28,7 @@ plugins:
     - jekyll-category-pages
 
 footer_desc: >-
-    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a> on all content unless otherwise stated. <br>
+    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a> on all material unless otherwise stated. <br>
     <a href="https://jekyllrb.com/">Jekyll</a> powered. <br>
     <a href="https://github.com/joelsgp/joelsgp.github.io/">Source</a> on GitHub.
 category_descs:
