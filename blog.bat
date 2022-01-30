@@ -1,6 +1,6 @@
 cd "C:\Users\joelm\src\www\joelsgp.github.io"
 explorer .
-subl .
+code .
 start bundle exec jekyll serve --unpublished --drafts
 start "https://joelsgp.github.io"
 start "http://127.0.0.1:4000/"

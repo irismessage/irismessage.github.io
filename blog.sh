@@ -1,5 +1,5 @@
-cd "/home/joelm/src/www/joelsgp.github.io"
-subl .
+cd "~/src/www/joelsgp.github.io"
+code .
 # bundle exec jekyll serve --unpublished --drafts
 xdg-open "https://joelsgp.github.io"
 xdg-open "http://127.0.0.1:4000/"
