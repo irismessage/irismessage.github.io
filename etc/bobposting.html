@@ -26,16 +26,41 @@
         </style>
 
         <script type="text/javascript">
+            function randint(max) {
+                return Math.floor(Math.random() * (max + 1));
+            }
+
+            function shuffle(string) {
+                let stringList = string.split("");
+                for (let i = string.length -1; 0 < i; i--) {
+                    randindex = randint(i);
+                    [stringList[i], stringList[randindex]] = [stringList[randindex], stringList[i]];
+                }
+                return stringList.join("");
+            }
+
+            function randomiseSignoff() {
+                let signoff = shuffle("allthebest");
+                let signoffP = document.getElementById("allthebest");
+                signoffP.innerHTML = signoff;
+            }
+
             function loadGifs() {
-                let gifsDiv = document.getElementById("new-gif")
-                for (let i = 0; i < 40; i++) {
-                    let img = document.createElement("img")
-                    img.src = "/assets/images/bob/newblue.gif"
-                    gifsDiv.appendChild(img)
+                let repeats = 40;
+                let gifsDiv = document.getElementById("new-gif");
+                for (let i = 0; i < repeats; i++) {
+                    let img = document.createElement("img");
+                    img.src = "/assets/images/bob/newblue.gif";
+                    gifsDiv.appendChild(img);
                 }
             }
 
-            window.onload = loadGifs
+            function startup() {
+                loadGifs();
+                randomiseSignoff();
+            }
+
+            window.onload = startup;
         </script>
     </head>
 
@@ -142,6 +167,7 @@
             <li>Bob Dressed up as The Nation</li>
             <li>Bob Dressed up as other wrestlers</li>
         </ul>
+        <p id="allthebest">
         <p class="large">Cool links</p>
         <ul>
             <a href="http://simplecpudesign.com/">Figure 2</a><br>
