@@ -47,12 +47,10 @@
 
             function loadGifs() {
                 let repeats = 40;
+                let imgElement = "<img src=\"/assets/images/bob/newblue.gif\">";
+                let gifs = Array(repeats).fill(imgElement).join("\n");
                 let gifsDiv = document.getElementById("new-gif");
-                for (let i = 0; i < repeats; i++) {
-                    let img = document.createElement("img");
-                    img.src = "/assets/images/bob/newblue.gif";
-                    gifsDiv.appendChild(img);
-                }
+                gifsDiv.innerHTML = gifs;
             }
 
             function startup() {
