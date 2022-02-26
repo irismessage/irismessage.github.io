@@ -5,14 +5,8 @@
         <meta charset="utf-8">
         <title>The 100-dimensional political model</title>
 
-        <style>
-            input {
-                display: block;
-            }
-        </style>
-
         <script type="text/javascript">
-            // Copyright (c) JMcB 2021
+            // Copyright (c) JMcB 2022
             // License: GNU GPLv3
             // https://www.gnu.org/licenses/gpl-3.0.en.html
 
@@ -22,27 +16,93 @@
             ];
             const axesCount = axes.length;
 
+            function setValues(valuesArray) {
+                // set the value of each slider from the array
+                for (let i = 0; i < axesCount; i++) {
+                    let slider = document.getElementById("slider" + i);
+                    slider.value = valuesArray[i];
+                }
+            }
+
+            function getValues() {
+                // get the value of each slider and return them as an array
+                let values = Array(axesCount);
+                for (let i = 0; i < axesCount; i++) {
+                    let slider = document.getElementById("slider" + i);
+                    values[i] = slider.value;
+                }
+                return values;
+            }
+
+            function encodeValues(valuesArray) {
+                // convert array of values to base64
+                valuesString = valuesArray.join(",");
+                valuesB64 = btoa(valuesString);
+                return valuesB64;
+            }
+
+            function updateFragment() {
+                // encode the sum slider value and edit the url hash to match, for sharing
+                valuesArray = getValues();
+                valuesB64 = encodeValues(valuesArray);
+                window.location.hash = valuesB64;
+            }
+
+            function assignSlidersOnchange() {
+                // set the onchange event to updateFragment for each slider
+                for (let i = 0; i < axesCount; i++) {
+                    let slider = document.getElementById("slider" + i);
+                    slider.onchange = updateFragment;
+                }
+            }
+
             function spawnAxis(axisNumber, axisArray, slidersDiv) {
+                // spawn a single slider and its labels
+
+                // axis name label for div
+                let divId = "div" + axisNumber;
+                let newLabel = document.createElement("label");
+                newLabel.setAttribute("for", divId);
+                let axisName = axisArray[0];
+                newLabel.innerText = axisName[0].toUpperCase() + axisName.substring(1);
+                slidersDiv.appendChild(newLabel);
+
+                // div for axis
+                let newDiv = document.createElement("div");
+                newDiv.id = divId;
+                slidersDiv.appendChild(newDiv);
+
+                // left label within div
+                sliderId = "slider" + axisNumber;
+                let newLabelLeft = document.createElement("label");
+                newLabelLeft.setAttribute("for", sliderId);
+                newLabelLeft.innerText = axisArray[1];
+                newDiv.appendChild(newLabelLeft);
+
+                // input element within div
                 let newSlider = document.createElement("input");
                 newSlider.type = "range";
                 newSlider.min = -1.0;
                 newSlider.max = 1.0;
                 newSlider.step = 0.01;
-                let sliderId = "slider" + axisNumber
+                newSlider.value = 0;
                 newSlider.id = sliderId;
-                slidersDiv.appendChild(newSlider);
+                newDiv.appendChild(newSlider);
 
-                let newLabel = document.createElement("label");
-                newLabel.setAttribute("for", sliderId);
-                let axisName = axisArray[0];
-                newLabel.innerText = axisName[0].toUpperCase() + axisName.substring(1);
-                slidersDiv.appendChild(newLabel);
+                // right label within div
+                let newLabelRight = document.createElement("label");
+                newLabelRight.setAttribute("for", sliderId);
+                newLabelRight.innerText = axisArray[2];
+                newDiv.appendChild(newLabelRight);
             }
 
             function spawnAxes(slidersDiv) {
+                // spawn every slider
                 for (let i = 0; i < axesCount; i++) {
                     spawnAxis(i, axes[i], slidersDiv)
                 }
+
+                assignSlidersOnchange();
             }
 
             function ready() {
