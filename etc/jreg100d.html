@@ -10,9 +10,104 @@
             // License: GNU GPLv3
             // https://www.gnu.org/licenses/gpl-3.0.en.html
 
+            const sliderMin = -99;
+            const sliderMax = 99;
+            const sliderStep = 1;
+
             const axes = [
-                ["economic", "equality", "markets", 75],
-                ["cultural", "progress", "tradition", 98],
+                ["economic", "equality", "markets", "75"],
+                ["cultural", "progress", "tradition", "98"],
+                ["government", "security", "freedom", "150"],
+                ["time", "start", "end", "304"],
+                ["wackiness", "tame", "wacky", "363"],
+                ["culural accelerationism", "deacceleration", "acceleration", "385"],
+                ["technological accelerationism", "deacceleration", "acceleration", "385"],
+                ["economic accelerationism", "deacceleration", "acceleration", "385"],
+                ["materialism", "esoteric", "worldly", "455"],
+                ["gender power balance", "matriarchal", "patriarchal", "609"],
+                ["racial inclusivity", "racially inclusive", "racially exclusive", "609"],
+                ["bi inclusivity", "bi-inclusive", "bi-esclusive", "609"],
+                ["age inclusivity", "age inclusive", "age exclusive", "609"],
+                ["trans inclusivity", "trans inclusive", "trans exclusive", "609"],
+                ["disability inclusivity", "disabled inclusive", "disabled exclusive", "609"],
+                ["queer inclusivity", "queer inclusive", "queer exclusive", "609"],
+                ["exclusivity inclusivity", "exclusive inclusive", "exclusive exclusive", "609"],
+                ["extremism", "moderate", "extreme", "714"],
+                ["personal political violence", "no violence", "lots of violence", "727"],
+                ["morality", "amoral", "moral", "745"],
+                ["collectivism", "collectivist", "individualist", "779"],
+                ["alternate timeline viability", "viable", "unviable", "824"],
+                ["anime", "disdain for weebs", "lots of anime", "832"],
+                ["foreign policy", "dove", "hawk", "844"],
+                ["how much you think billionaires should pay taxes", "no taxes", "they won't need to pay taxes once we guillotine them", "879"],
+                ["parental advantage", "low", "high", "887"],
+                ["control over wealth", "individual control", "state control", "904"],
+                ["regret", "low", "high", "921"],
+                ["environmentalism", "low", "high", "933"],
+                ["racial eugenics", "more babies", "less babies", "962"],
+                ["economic eugenics", "more babies", "less babies", "962"],
+                ["abled eugenics", "more babies", "less babies", "962"],
+                ["iq eugenics", "more babies", "less babies", "962"],
+                ["ideological eugenics", "more babies", "less babies", "962"],
+                ["eugenicist eugenics", "more babies", "less babies", "962"],
+                ["self eugenics", "more babies", "less babies", "962"],
+                ["natalism", "anti-natalist", "natalist", "989"],
+                ["iq spectrum", "85 iq", "anti-centrist", "1014"],
+                ["sadness", "sad", "happy", "1035"],
+                ["anxiety", "relaxed", "end of the world coming soon", "1038"],            
+                ["technological threat", "anarcho-primitivist", "transhumanist", "1052"],
+                ["upper-dimensional impossible universe viability", "viabile", "unviable", "1099"],
+                ["possibility", "possible", "impossible", "1110"],
+                ["correctness of opinions on the soviet union", "left", "right", "1130"],
+                ["has real x been tried", "no", "yes", "1138"],
+                ["will to live at this point in the video", "no", "yes", "1158"],
+                ["utopian", "utopian", "dystopian", "1185"],
+                ["doomer", "doomer", "bloomer", "1190"],
+                ["if this idealogy was a person would I fuck them", "yes", "no", "1233"],
+                ["if this idealogy was a person would it be my friend", "yes", "no", "1248"],
+                ["why are all your videos cries for help", "yes", "no", "1277"],
+                ["how likely proponents of this idealogy are to be on some kind of intoxicant", "likely", "unlikely", "1281"],
+                ["how likely proponents of this idealogy are to smoke", "likely", "unlikely", "1314"],
+                ["theory", "read", "unread", "1324"],
+                ["praxis", "praxised", "unpraxised", "1338"],
+                ["autism spectrum", "neurodivergent", "neurotypical", "1364"],
+                ["political correctness", "correct", "incorrect", "1369"],
+                ["why use a slur", "in-group", "hostility", "1384"],
+                ["how many friends proponents of this idealogy tend to have", "0", "0", "1406"],
+                ["desire to pick up, get the fuck out of this town and go find some people who care about you", "100", "100", "1419"],
+                ["memetics", "low", "high", "1430"],
+                ["gamer spectrum", "gamer", "non-gamer", "1448"],
+                ["globalism", "globalist", "isolationist", "1453"],
+                ["how much proponents of this idealogy fuck", "anti-centrist chad", "virgin beta centrist", "1466"],
+                ["religion", "secular", "religious", "1488"],
+                ["colonialism", "decolonial", "colonial", "1521"],
+                ["infighting", "likely", "unlikely", "1543"],
+                ["advocacy for war in other countries", "no", "yes", "1561"],
+                ["dankness", "dank", "normie", "1572"],
+                ["generational appeal", "boomer", "gen z", "1574"]
+                ["monarchy", "republican", "monarchist", "1587"],
+                [":/ spectrum", "likely", "unlikely", "1611"],
+                ["wishy-washiness", "rigid", "wishy-washy", "1621"],
+                ["justice", "rehabilitative", "punitive", "1651"],
+                ["climate change", "think about it a lot", "don't think about it at all", "1672"],
+                ["centrist sympathy", "empathy", "anti-centrist", "1701"],
+                ["tolerance towards opposing ideas", "intolerant", "tolerant", "1734"],
+                ["constructivism", "constructivist", "essentialist", "1748"],
+                ["genocide", "no", "yes", "1806"],
+                ["irony", "ironic", "unironic", "1830"],
+                ["reaction", "non-reactionary", "reactionary", "1838"],
+                ["kind of reaction", "left", "right", "1855"],
+                ["goodness", "good", "evil", "1908"],
+                ["lawfulness", "lawful", "chaotic", "1908"],
+                ["palestinian spectrum", "palestine", "israel", "1916"],
+                ["how happy I am when I realise I still have to edit this video after all of this filming", "0", "0", "1917"],
+                ["how likely proponents of this ideaology are to talk about this ideaology instead of doing any actual politics", "unlikely", "likely", "1927"],
+                ["the classic fortnite vs minecraft dichotomy", "minecraft", "fortnite", "1933"],
+                ["revolution", "revolutionary", "reformist", "1940"],
+                ["pencil spectrum", "few", "many", "1970"],
+                ["multiculturalism", "assimilationist", "multiculturalist", "1979"],
+                ["federalism", "federal", "unitaryy", "2025"],
+                ["democracy", "democracy", "authority", "2025"],
             ];
             const axesCount = axes.length;
 
@@ -106,9 +201,9 @@
                 // input element within div
                 let newSlider = document.createElement("input");
                 newSlider.type = "range";
-                newSlider.min = -100;
-                newSlider.max = 100;
-                newSlider.step = 1;
+                newSlider.min = sliderMin;
+                newSlider.max = sliderMax;
+                newSlider.step = sliderStep;
                 newSlider.value = 0;
                 newSlider.id = sliderId;
                 newDiv.appendChild(newSlider);
