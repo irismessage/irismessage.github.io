@@ -10,9 +10,10 @@
             // License: GNU GPLv3
             // https://www.gnu.org/licenses/gpl-3.0.en.html
 
-            const sliderMin = -99;
-            const sliderMax = 99;
+            const sliderMin = 0;
+            const sliderMax = 9;
             const sliderStep = 1;
+            const sliderDefault = 5;
             const videoTimestampStem = "https://youtu.be/UuopBeaUN24?t=";
 
             const axes = [
@@ -137,7 +138,7 @@
 
             function encodeValues(valuesArray) {
                 // convert array of values to base64
-                valuesString = valuesArray.join(",");
+                valuesString = valuesArray.join("");
                 valuesB64 = btoa(valuesString);
                 return valuesB64;
             }
@@ -145,7 +146,7 @@
             function decodeValues(valuesB64) {
                 // convert base64 to array of values
                 valuesString = atob(valuesB64);
-                valuesArray = valuesString.split(",");
+                valuesArray = valuesString.split("");
                 return valuesArray;
             }
 
@@ -203,13 +204,13 @@
                 newLabelLeft.innerText = titleCase(axisArray[1]);
                 newDiv.appendChild(newLabelLeft);
 
-                // input element within div
+                // <input> element within div
                 let newSlider = document.createElement("input");
                 newSlider.type = "range";
                 newSlider.min = sliderMin;
                 newSlider.max = sliderMax;
                 newSlider.step = sliderStep;
-                newSlider.value = 0;
+                newSlider.value = sliderDefault;
                 newSlider.id = sliderId;
                 newDiv.appendChild(newSlider);
 
