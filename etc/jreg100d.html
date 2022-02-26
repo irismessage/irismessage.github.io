@@ -13,6 +13,7 @@
             const sliderMin = -99;
             const sliderMax = 99;
             const sliderStep = 1;
+            const videoTimestampStem = "https://youtu.be/UuopBeaUN24?t=";
 
             const axes = [
                 ["economic", "equality", "markets", "75"],
@@ -84,7 +85,7 @@
                 ["infighting", "likely", "unlikely", "1543"],
                 ["advocacy for war in other countries", "no", "yes", "1561"],
                 ["dankness", "dank", "normie", "1572"],
-                ["generational appeal", "boomer", "gen z", "1574"]
+                ["generational appeal", "boomer", "gen z", "1574"],
                 ["monarchy", "republican", "monarchist", "1587"],
                 [":/ spectrum", "likely", "unlikely", "1611"],
                 ["wishy-washiness", "rigid", "wishy-washy", "1621"],
@@ -182,9 +183,13 @@
                 let divId = "div" + axisNumber;
                 let newLabel = document.createElement("label");
                 newLabel.setAttribute("for", divId);
-                let axisName = axisArray[0];
-                newLabel.innerText = titleCase(axisName);
                 slidersDiv.appendChild(newLabel);
+                let newLink = document.createElement("a");
+                let videoTimestamp = videoTimestampStem + axisArray[3];
+                newLink.setAttribute("href", videoTimestamp);
+                let axisName = axisArray[0];
+                newLink.innerText = titleCase(axisName);
+                newLabel.appendChild(newLink);
 
                 // div for axis
                 let newDiv = document.createElement("div");
@@ -195,7 +200,7 @@
                 sliderId = "slider" + axisNumber;
                 let newLabelLeft = document.createElement("label");
                 newLabelLeft.setAttribute("for", sliderId);
-                newLabelLeft.innerText = axisArray[1];
+                newLabelLeft.innerText = titleCase(axisArray[1]);
                 newDiv.appendChild(newLabelLeft);
 
                 // input element within div
@@ -211,7 +216,7 @@
                 // right label within div
                 let newLabelRight = document.createElement("label");
                 newLabelRight.setAttribute("for", sliderId);
-                newLabelRight.innerText = axisArray[2];
+                newLabelRight.innerText = titleCase(axisArray[2]);
                 newDiv.appendChild(newLabelRight);
             }
 
