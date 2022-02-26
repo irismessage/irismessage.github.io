@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>The 100-dimensional political model</title>
+
+        <style>
+            input {
+                display: block;
+            }
+        </style>
+
+        <script type="text/javascript">
+            // Copyright (c) JMcB 2021
+            // License: GNU GPLv3
+            // https://www.gnu.org/licenses/gpl-3.0.en.html
+
+            const axes = [
+                ["economic", "left", "right"],
+                ["social", "authoritarian", "libertarian"],
+            ];
+            const axesCount = axes.length;
+
+            function spawnAxis(axisNumber, axisArray, slidersDiv) {
+                let newSlider = document.createElement("input");
+                newSlider.type = "range";
+                newSlider.min = -1.0;
+                newSlider.max = 1.0;
+                newSlider.step = 0.01;
+                let sliderId = "slider" + axisNumber
+                newSlider.id = sliderId;
+                slidersDiv.appendChild(newSlider);
+
+                let newLabel = document.createElement("label");
+                newLabel.setAttribute("for", sliderId);
+                let axisName = axisArray[0];
+                newLabel.innerText = axisName[0].toUpperCase() + axisName.substring(1);
+                slidersDiv.appendChild(newLabel);
+            }
+
+            function spawnAxes(slidersDiv) {
+                for (let i = 0; i < axesCount; i++) {
+                    spawnAxis(i, axes[i], slidersDiv)
+                }
+            }
+
+            function ready() {
+                let slidersDiv = document.getElementById("sliders");
+                spawnAxes(slidersDiv);
+            }
+
+            document.addEventListener("DOMContentLoaded", ready);
+        </script>
+    </head>
+    <body>
+        <div align="center">
+            <a href="https://youtu.be/UuopBeaUN24">https://youtu.be/UuopBeaUN24</a>
+        </div>
+        <br>
+        <div id="sliders" align="center">
+    </body>
+</html>

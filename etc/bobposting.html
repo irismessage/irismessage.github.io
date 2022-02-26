@@ -53,12 +53,12 @@
                 gifsDiv.innerHTML = gifs;
             }
 
-            function startup() {
+            function ready() {
                 loadGifs();
                 randomiseSignoff();
             }
 
-            window.onload = startup;
+            document.addEventListener("DOMContentLoaded", ready);
         </script>
     </head>
 
