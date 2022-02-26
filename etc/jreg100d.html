@@ -11,8 +11,8 @@
             // https://www.gnu.org/licenses/gpl-3.0.en.html
 
             const axes = [
-                ["economic", "left", "right"],
-                ["social", "authoritarian", "libertarian"],
+                ["economic", "equality", "markets", 75],
+                ["cultural", "progress", "tradition", 98],
             ];
             const axesCount = axes.length;
 
@@ -76,6 +76,10 @@
                 }
             }
 
+            function titleCase(string) {
+                return string[0].toUpperCase() + string.substring(1)
+            }
+
             function spawnAxis(axisNumber, axisArray, slidersDiv) {
                 // spawn a single slider and its labels
 
@@ -84,7 +88,7 @@
                 let newLabel = document.createElement("label");
                 newLabel.setAttribute("for", divId);
                 let axisName = axisArray[0];
-                newLabel.innerText = axisName[0].toUpperCase() + axisName.substring(1);
+                newLabel.innerText = titleCase(axisName);
                 slidersDiv.appendChild(newLabel);
 
                 // div for axis
