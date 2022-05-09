@@ -1,4 +1,12 @@
+---
+title: "CV"
+date: 2022-05-09 20:41:40 +0100
+tags: qualifications employment
+---
+
 ## Joel S
+
+![Profile banner image](/assets/images/dog.jpg){:width="30%"}
 
 ### Skills
 - Python, 8 years experience, amateur expertise
@@ -11,9 +19,9 @@
 - QWERTY touch typing 90+ WPM ([Ratatype](https://www.ratatype.com/u2570919/certificate/))
 
 ### Portfolio
-- GitHub account <https://github.com/joelsgp/>
+- GitHub account <https://github.com/joelsgp/>    
     Features pretty much every programming project I've worked on, under free licenses. Profile pins have a fairly good spread, with many more in [the full listing](https://github.com/joelsgp?tab=repositories) and one or two on my [GitLab](https://gitlab.com/joelsgp).
-- Personal website (WIP) <https://joels.me/>
+- Personal website (WIP) <https://joels.me/>    
     A few help guides, programming opinion, one article with pretty good research behind it. Source <https://github.com/joelsgp/joelsgp.github.io/>
 
 ### Certificates
@@ -34,3 +42,7 @@
     - 7 English Language
     - 6 English Literature
     - 5 French
+
+### About
+
+todo?
