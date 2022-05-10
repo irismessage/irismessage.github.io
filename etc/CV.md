@@ -13,7 +13,7 @@ tags: qualifications employment
 - Git SCM, 5 years experience, understanding of usage and workings by reading [the official book](https://git-scm.com/book/)
 - Workable knowledge: SQL, Javascript, HTML & CSS, Java, Lua
 - Digital media skills, familiar with Photoshop, Premiere Pro, Audacity, FFmpeg, Youtube, social media, knowledge of data representation and file standards, avid photographer using a [bridge camera](https://en.wikipedia.org/wiki/Bridge_camera)
-- General compuer skills, well-practiced and efficient, including office software like Libreoffice, Word, and Excel
+- General computer skills, well-practiced and efficient, including office software like Libreoffice, Word, and Excel
 - Written English, excellent spelling and grammar, high reading comprehension and speed
 - French language, intermediate
 - QWERTY touch typing 90+ WPM ([Ratatype](https://www.ratatype.com/u2570919/certificate/))
@@ -29,8 +29,8 @@ tags: qualifications employment
     - A Maths
     - B Physics
     - C Chemistry
-- [SANS Institute](https://www.sans.org/) [Cyberstart Essentials](https://joincyberdiscovery.com/) pass with distinction
-- [UK Bebras](https://www.bebras.uk/) Senior Computing Challenge Gold, Best in School
+- [Cyberstart Essentials](https://joincyberdiscovery.com/) by [SANS Institute](https://www.sans.org/), pass with distinction
+- [UK Bebras](https://www.bebras.uk/) Senior Computing Challenge by [Oxford Univeristy/Raspi Foundation](https://www.bebras.uk/index.php?action=content&id=36), Gold, Best in School
 - GCSEs
     - A^ Further Maths
     - 9 Maths
@@ -46,3 +46,10 @@ tags: qualifications employment
 ### About
 
 todo?
+
+### Notes
+
+Certificates:
+- (Full versions available on request)
+- [Cyberstart](/assets/images/cv/certificate-2d6229c3-8ed3-4125-b218-46bb7bd02678_censored.png)
+- [Bebras](/assets/images/cv/YPP-10052022_censored_small.png)
