@@ -22,15 +22,17 @@ tags: qualifications employment
 - GitHub account <https://github.com/joelsgp/>    
     Features pretty much every programming project I've worked on, under free licenses. Profile pins have a fairly good spread, with many more in [the full listing](https://github.com/joelsgp?tab=repositories) and one or two on my [GitLab](https://gitlab.com/joelsgp).
 - Personal website (WIP) <https://joels.me/>    
-    A few help guides, programming opinion, one article with pretty good research behind it. Source <https://github.com/joelsgp/joelsgp.github.io/>
+    A few help guides, programming opinion, some pretty good research on the retro games stuff. Made in Jekyll for GitHub Pages, so mostly markdown with some custom html, css, js, config files and helper scripts. CC BY-NC-SA 4.0 ([source](https://github.com/joelsgp/joelsgp.github.io/))
+- Fiverr <https://www.fiverr.com/jmcb17/>
+    I completed some Python programming commissions and received four lots of five-star feedback. Most of the commissions were written as free software and are also on my GitHub.
 
 ### Certificates
 - A Levels
     - A Maths
     - B Physics
     - C Chemistry
-- [Cyberstart Essentials](https://joincyberdiscovery.com/) by [SANS Institute](https://www.sans.org/), pass with distinction
-- [UK Bebras](https://www.bebras.uk/) Senior Computing Challenge by [Oxford Univeristy/Raspi Foundation](https://www.bebras.uk/index.php?action=content&id=36), Gold, Best in School
+- [Cyberstart Essentials](https://joincyberdiscovery.com/) by the [SANS Institute](https://www.sans.org/), pass with distinction
+- [UK Bebras](https://www.bebras.uk/) Senior Computing Challenge by [Oxford University and the Raspberry Pi Foundation](https://www.bebras.uk/index.php?action=content&id=36), Gold, Best in School
 - GCSEs
     - A^ Further Maths
     - 9 Maths
@@ -52,4 +54,4 @@ todo?
 Certificates:
 - (Full versions available on request)
 - [Cyberstart](/assets/images/cv/certificate-2d6229c3-8ed3-4125-b218-46bb7bd02678_censored.png)
-- [Bebras](/assets/images/cv/YPP-10052022_censored_small.png)
+- [Bebras](/assets/images/cv/YPP-10052022_small_censored.png)
