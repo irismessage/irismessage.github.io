@@ -16,11 +16,21 @@ tags: qualifications employment
 - General computer skills, well-practiced and efficient, including office software like Libreoffice, Word, and Excel
 - Written English, excellent spelling and grammar, high reading comprehension and speed
 - French language, intermediate
-- QWERTY touch typing 90+ WPM ([Ratatype](https://www.ratatype.com/u2570919/certificate/))
+- QWERTY touch typing 90 WPM ([Ratatype](https://www.ratatype.com/u2570919/certificate/))
+- AZERTY touch typing 60 WPM
 
 ### Portfolio
 - GitHub account <https://github.com/joelsgp/>    
     Features pretty much every programming project I've worked on, under free licenses. Profile pins have a fairly good spread, with many more in [the full listing](https://github.com/joelsgp?tab=repositories) and one or two on my [GitLab](https://gitlab.com/joelsgp).
+    - [snakeboxed](https://github.com/joelsgp/snakeboxed), Python, a social media (Discord) bot that runs arbitrary Python code in a sandboxed environment and searches documentation, for education and collaboration purposes. Discord is a great dev platform for learners because it lets you write code for a simple, event-based, cli-like platform and then use that code in user-friendly and social setting. I made a number of other social media bots for Reddit, Discord, and Twitter.
+    - [Zarya](https://github.com/joelsgp/zarya), a text adventure game in Python. I also ported it to Discord.
+    - [A flask web app](https://github.com/joelsgp/get-banned-challenge)
+    - [A command line script using youtube-dl and ffmpeg to make timelapses](https://github.com/joelsgp/auto-timelapse-script)
+    - [Snake for Casio BASIC on an FX-9750GII calculator](https://github.com/joelsgp/casio-basic)
+    - [BIDE](https://github.com/joelsgp/BIDE), my fork of the BASIC IDE for Casio BASIC. A useful Java application with a horrid codebase, I comprehensively cleaned up the project structure and created a Maven build pipeline, then did a bunch of refactoring.
+    - [MultiOgarII](https://github.com/joelsgp/MultiOgarII), my fork of a popular free server in node.js for the viral agar.io game – I made some bug fixes and improvements.
+    - Typo fix and documentation contributions to major projects – [cpython](https://github.com/python/cpython/commits?author=joelsgp), [sqlalchemy](https://github.com/sqlalchemy/sqlalchemy/commits?author=joelsgp) and [python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit/commits?author=joelsgp)
+    - [Bros](https://github.com/joelsgp/Bros), a PICO-8 port of an obscure Atari 800XL game. My latest and greatest project, featuring emulation, datamining, assembly, Python scripts, and Lua game code.
 - Personal website (WIP) <https://joels.me/>    
     A few help guides, programming opinion, some pretty good research on the retro games stuff. Made in Jekyll for GitHub Pages, so mostly markdown with some custom html, css, js, config files and helper scripts. CC BY-NC-SA 4.0 ([source](https://github.com/joelsgp/joelsgp.github.io/))
 - Fiverr <https://www.fiverr.com/jmcb17/>
@@ -47,7 +57,12 @@ tags: qualifications employment
 
 ### About
 
-todo?
+I am a member of the Computer Science Society (HackSoc). I regularly volunteer to help on
+forums like stackoverflow and the python discord. I would say I have fast learning and
+excellent memory for things I’m interested in. My work experience is limited: Fiverr (see
+above), dogsitting, and volunteering at an RVS shop/cafe in a hospital. I use a thinkpad
+x280 with arch/kde + windows 11, and a mid-range custom built pc with windows 11 +
+gubuntu.
 
 ### Notes
 
