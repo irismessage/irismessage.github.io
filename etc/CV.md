@@ -35,12 +35,10 @@ tags: qualifications employment
     A few help guides, programming opinion, some pretty good research on the retro games stuff. Made in Jekyll for GitHub Pages, so mostly markdown with some custom html, css, js, config files and helper scripts. CC BY-NC-SA 4.0 ([source](https://github.com/joelsgp/joelsgp.github.io/))
 - Fiverr <https://www.fiverr.com/jmcb17/>
     I completed some Python programming commissions and received four lots of five-star feedback. Most of the commissions were written as free software and are also on my GitHub.
+- Arch User Repository <https://aur.archlinux.org/account/jmcb>
+    I wrote some PKGBUILD install scripts which helped me to learn some Bash scripting and POSIX software distribution concepts.
 
 ### Certificates
-- A Levels
-    - A Maths
-    - B Physics
-    - C Chemistry
 - [Cyberstart Essentials](https://joincyberdiscovery.com/) by the [SANS Institute](https://www.sans.org/), pass with distinction [^1]
 - [UK Bebras](https://www.bebras.uk/) Senior Computing Challenge by [Oxford University and the Raspberry Pi Foundation](https://www.bebras.uk/index.php?action=content&id=36), Gold, Best in School [^2]
 - GCSEs
@@ -54,6 +52,14 @@ tags: qualifications employment
     - 7 English Language
     - 6 English Literature
     - 5 French
+- A Levels
+    - A Maths
+    - B Physics
+    - C Chemistry
+- University
+    - Term 1
+        - Software 1 (SOF1) 99%
+        - Theory 1 (THE1) 80%
 
 ### About
 
@@ -62,6 +68,8 @@ forums like stackoverflow and the python discord. I would say I have fast learni
 excellent memory for things I’m interested in. My work experience is limited: Fiverr (see
 above), dogsitting, and volunteering at an RVS shop/cafe in a hospital. I use a ThinkPad
 x280 and a mid-range custom built PC, both with with Arch/KDE plus Windows 11.
+
+I like to contribute to free projects, such as Wikipedia, fan wikis, and OpenStreetMap (links on request), plus all the free software above, of course. In terms of employable skills, this helps me practise writing in a documentation style, and gives me a good understanding of wiki-based data models and GIS.
 
 ### Notes
 
