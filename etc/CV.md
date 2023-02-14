@@ -41,8 +41,8 @@ tags: qualifications employment
     - A Maths
     - B Physics
     - C Chemistry
-- [Cyberstart Essentials](https://joincyberdiscovery.com/) by the [SANS Institute](https://www.sans.org/), pass with distinction
-- [UK Bebras](https://www.bebras.uk/) Senior Computing Challenge by [Oxford University and the Raspberry Pi Foundation](https://www.bebras.uk/index.php?action=content&id=36), Gold, Best in School
+- [Cyberstart Essentials](https://joincyberdiscovery.com/) by the [SANS Institute](https://www.sans.org/), pass with distinction [^1]
+- [UK Bebras](https://www.bebras.uk/) Senior Computing Challenge by [Oxford University and the Raspberry Pi Foundation](https://www.bebras.uk/index.php?action=content&id=36), Gold, Best in School [^2]
 - GCSEs
     - A^ Further Maths
     - 9 Maths
@@ -60,13 +60,12 @@ tags: qualifications employment
 I am a member of the Computer Science Society (HackSoc). I regularly volunteer to help on
 forums like stackoverflow and the python discord. I would say I have fast learning and
 excellent memory for things I’m interested in. My work experience is limited: Fiverr (see
-above), dogsitting, and volunteering at an RVS shop/cafe in a hospital. I use a thinkpad
-x280 with arch/kde + windows 11, and a mid-range custom built pc with windows 11 +
-gubuntu.
+above), dogsitting, and volunteering at an RVS shop/cafe in a hospital. I use a ThinkPad
+x280 and a mid-range custom built PC, both with with Arch/KDE plus Windows 11.
 
 ### Notes
 
 Certificates:
 - (Full versions available on request)
-- [Cyberstart](/assets/images/cv/certificate-2d6229c3-8ed3-4125-b218-46bb7bd02678_censored.png)
-- [Bebras](/assets/images/cv/YPP-10052022_small_censored.png)
+[^1]: [Cyberstart](/assets/images/cv/certificate-2d6229c3-8ed3-4125-b218-46bb7bd02678_censored.png)
+[^2]: [Bebras](/assets/images/cv/YPP-10052022_small_censored.png)
