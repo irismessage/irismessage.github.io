@@ -35,5 +35,11 @@ other favs:
 - Celeste (2018)
 - Spider-Man (2018)
 - Outer Wilds (2019)
+- Disco Elysium (2019)
+- TUNIC (2022)
+
+Games I controversially didn't like:
+- Night in the Woods (2017)
+- ELDEN RING (2022)
 
 *Order: release date*
