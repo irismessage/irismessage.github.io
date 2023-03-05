@@ -40,6 +40,7 @@ other favs:
 
 Games I controversially didn't like:
 - Night in the Woods (2017)
+- Red Dead Redemption 2 (2018)
 - ELDEN RING (2022)
 
 *Order: release date*
