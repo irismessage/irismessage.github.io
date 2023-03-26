@@ -1,3 +1,8 @@
+---
+title: Politics
+date: 
+---
+
 # The Guerrilla Education Manifesto
 
 ## The sacred duty of the Educator, the Documentator, and the Archivist
