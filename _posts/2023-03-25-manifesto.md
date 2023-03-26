@@ -1,6 +1,7 @@
 ---
 title: Politics
 date: 2023-03-26 22:03:07 +0100
+tags: politics manifesto cw
 ---
 
 # The Guerrilla Education Manifesto
