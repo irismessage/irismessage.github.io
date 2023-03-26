@@ -1,7 +1,8 @@
 #!/bin/sh
-cd '~/src/joelsgp.github.io'
-$VISUAL .
-./serve.sh
+set -x
+cd "~/src/joelsgp.github.io"
+"$VISUAL" .
+.scripts/serve.sh
 xdg-open 'http://localhost:4000/'
 xdg-open 'https://joelsgp.github.io'
 xdg-open 'https://github.com/joelsgp/joelsgp.github.io'

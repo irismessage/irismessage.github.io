@@ -1,6 +1,6 @@
 ---
 title: Politics
-date: 
+date: 2023-03-26 22:03:07 +0100
 ---
 
 # The Guerrilla Education Manifesto
