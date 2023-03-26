@@ -16,7 +16,7 @@ History is constantly being produced. Some of the most significant historical te
 
 # The failures of other movements
 
-This is the inevitable part of my maniesto where I spend my time complaining about other people who I mostly agree with.
+This is the inevitable part of my manifesto where I spend my time complaining about other people who I mostly agree with.
 
 Marxist-Leninists failed by attempting to pre-empt the progression of society. Their "Vanguard Party of the Revolution" doctrine casted them as saviours who would take their understanding of socio-economics and impose it on the human race by military force.
 
@@ -28,13 +28,15 @@ Continental Philosophers fail by making everything more complicated than it need
 
 Human beings are emotional creatures, whether we like it or not. Rationality is our invention, but it doesn't necessarily come naturally to us.
 
-Some Thinkers will try to remove emotion from science and philosophy altogether. They try to act like the Vulcans (Mr. Spock) from Star Trek, try to become pure and unquestionable Knight-Philosphers of Reason. Unfortunately, this seems to result in making arguments just as emotionally charged as their peers, but with more misplaced confidence.
+Some Thinkers will try to remove emotion from science and philosophy altogether. They try to act like the Vulcans (Mr. Spock) from Star Trek, try to become pure and unquestionable Knight-Philosophers of Reason. Unfortunately, this seems to result in making arguments just as emotionally charged as their peers, but with more misplaced confidence.
 
 In my opinion, the best way to good outcomes is to stay humble and to follow the scientific method. The scientific method, like most things, is really incredibly simple in hindsight. "If you want to say something is true, check if it is true. (Then, whenever you get new information, check again. Repeat as many times as needed.)" Somehow, it took us tens of thousands of years to develop this method, Empirical Falsifiability.
 
-I think there are two reasons for this. One, it's hard to follow this method when you have absolutely no clue what to do to test an idea. We had to muddle around with mercury and sulfur in tubes, whenever we found the free time to do it, until we eventually stumbled on some good ideas.
+I think there are two reasons for this. One, it's hard to follow this method when you have absolutely no clue what to do to test an idea. We had to muddle around with mercury and sulphur in tubes, whenever we found the free time to do it, until we eventually stumbled on some good ideas.
 
 Two, because we didn't write things down enough. Now we have computers and the internet, the most effective machines for writing, typesetting, storing, and transmitting information ever invented, it's inevitable we'll be able to do better.
+
+Basically, let your emotions guide you - emotions like love of other people and hatred of injustice - and when your emotions don't line up with reality, use reason to guide them.
 
 # The role of comedy in politics
 
@@ -52,7 +54,7 @@ The point is, politics is awful. To cope with this, many turn to ignorance and d
 
 Even when they acknowledge tragedies that happen, people simply decide that nothing can be done, and try to get on with their lives. But this is false. Things have got better, and they will continue to get better. Unfortunately, the first step to tackling a problem is to acknowledge it exists. You have to get a good look at the problem, understand it, and accept that it is real. Accept the truth, the whole truth, and nothing but the truth.
 
-When each of us is born, we are plunged into the universe as a whole, and deeper, into the Great Machine of Society. In this machine we are all cogs, wheels, pipes, wires, regulators, and other assorted doodads. No one chooses to be in this machine, but if we are lucky, we find a part of it we love, with other people we love, doing what we were made to do. But staring out at the Great Machine of Society in its current state is like looking at Cthulu - you go insane.
+When each of us is born, we are plunged into the universe as a whole, and deeper, into the Great Machine of Society. In this machine we are all cogs, wheels, pipes, wires, regulators, and other assorted doodads. No one chooses to be in this machine, but if we are lucky, we find a part of it we love, with other people we love, doing what we were made to do. But staring out at the Great Machine of Society in its current state is like looking at Cthulhu - you go insane.
 
 All of this, and half the time, when you try to talk about it with anyone else, you just get into an argument over your preconceptions.
 
@@ -64,11 +66,11 @@ In The Communist Manifesto, Karl Marx defined the goal of Communism as "the abol
 
 > Full human rights for every human being, without exception.
 >
-> This means every right, from the more well-defined ones to the vaguer ones - food, water, clean air, shelter, hygeine, healthcare, dignity, respect, work, freedom of movement, freedom of speech, freedom of religion, freedom from violence, freedom of love, creativity.
+> This means every right, from the more well-defined ones to the vaguer ones - food, water, clean air, shelter, hygiene, healthcare, dignity, respect, work, freedom of movement, freedom of speech, freedom of religion, freedom from violence, freedom of love, creativity.
 >
-> These rights must be provided to every human being, utterly without exception - regardless of age, sex, gender, sexuality, ethnicity, disability, neurodivergence, where you were born, personality.
+> These rights must be provided to every human being, utterly without exception - regardless of age, sex, gender, sexuality, ethnicity, disability, neuro-divergence, where you were born, personality.
 >
-> This state of affairs is both necessary and fully acheiveable.
+> This state of affairs is both necessary and fully achievable.
 
 Of course, I also believe in rights for other animals, and even plant life. In a really good world, it shouldn't be that hard to provide those rights too.
 
@@ -76,11 +78,13 @@ The rights provided should cover the whole of Maslow's Hierarchy of Needs and be
 
 Human rights must be provided regardless of whether you're a criminal or have done something wrong. To the best of my knowledge, crime can basically be sorted into two categories - what you're driven to do, and mistakes you make.
 
-No one will be driven to mug you for your purse if no one is lacking money to buy food and pay electricity bills or rent. People will always still make mistakes, but we can build a kind society where people care for one another, and everyone is told about the best known methods to stay safe and protect others. Volunteer peacekeepers can help guide drunk partygoers home and break up fights - like police officers, but very different to the power-tripping pigs who are all too common. Even the rulers and enforcers who now oppress humanity must be provided rights, so far as that doesn't stop us from freeing others. Guillotines are fun symbolism, but all life has value, even the lives of those who don't value life.
+No one will be driven to mug you for your purse if no one is lacking money to buy food and pay electricity bills or rent. People will always still make mistakes, but we can build a kind society where people care for one another, and everyone is told about the best known methods to stay safe and protect others. Volunteer peacekeepers can help guide drunk partygoers home and break up fights - like police officers, but very different to the power-tripping pigs who are all too common.
+
+Even the rulers and enforcers who now oppress humanity must be provided rights, so far as that doesn't stop us from freeing others. Guillotines are fun symbolism, but all life has value, even the lives of those who don't value life.
 
 The abolition of private property is a highly likely to be a required step. We have to try whatever is necessary to accomplish this - regulated capitalism, democratic socialism, minarchism, anarchism, libertarian socialism, state communism, collectivism - voting, peaceful protest, riots, reading groups, armed revolution and mutual aid. We will apply the scientific method, common sense, spontaneous, natural kindness for one another, and centuries of hard work to build the best society possible.
 
-The names of ideaologies are descriptive, not prescriptive. I do not know what the future will hold, but I know that it will be beautiful.
+The names of ideologies are descriptive, not prescriptive. I do not know what the future will hold, but I know that it will be beautiful.
 
 # Guerrilla Education
 
@@ -98,13 +102,11 @@ Since Communism was first *put into words* it has been spreading. in the 1900s, 
 
 But the revolutionary spirit is higher than ever. My generation was born and raised in a world with little hope. Nearly everyone can recognise the fundamental brokenness in society. We demand change. Fascism happens because we know something has to give but we don't know what. If "Communism has already failed and will never work", maybe getting rid of the Jews or the Transes will fix something?
 
-But hatred can never persevere. It is not natural nor is it healthy to hate so much. We have to offer real solutions that will work. The time will come to be communist in public again. Stand on the street like a Jehova's Witness and tell people (as far as the law allows, or further if you have nothing to lose). Show people [*Why Socialism?* by Albert Einstein](https://monthlyreview.org/2009/05/01/why-socialism/) - appeal to authority is always good. Hold classes in political science and philosophy in parks or whatever rooms you can book. Tell your family and friends. Above all, be kind to one another. Don't talk down to people for not understanding things. No one understands anything without it being taught to them, and bad, deeply held ideas are rife. Don't make spreading political education your entire personality, because it's unsustainable and unhelpful to the cause as well as yourself. Bear each other and love one another.
+But hatred can never persevere. It is not natural nor is it healthy to hate so much. We have to offer real solutions that will work. The time will come to be communist in public again. Stand on the street like a Jehovah's Witness and tell people (as far as the law allows, or further if you have nothing to lose). Show people [*Why Socialism?* by Albert Einstein](https://monthlyreview.org/2009/05/01/why-socialism/) - appeal to authority is always good. Hold classes in political science and philosophy in parks or whatever rooms you can book. Tell your family and friends. Above all, be kind to one another. Don't talk down to people for not understanding things. No one understands anything without it being taught to them, and bad, deeply held ideas are rife. Don't make spreading political education your entire personality, because it's unsustainable and unhelpful to the cause as well as yourself. Bear each other and love one another.
 
-Video essayists, I urge you to give up some of your artistic integrity. You don't *just* have to make videos on obscure TV shows, you know. Political opponents will call you a communist whether or not you say it out louds. You don't just have to make videos refuting bad ideas. Spread good ideas and explain them as clearly as possible.
+Video essayists, I urge you to give up some of your artistic integrity. You don't *just* have to make videos on obscure TV shows, you know. Political opponents will call you a communist whether or not you say it out loud. You don't just have to make videos refuting bad ideas. Spread good ideas and explain them as clearly as possible.
 
-Make videos and make radio shows and podcasts and fiction. Compromise your short term career for the long term good of all mankind.
-
-computers give us the tools
+Make videos and make radio shows and podcasts and fiction. Compromise your short term career for the long term good of all mankind. Most people now have phones in their hands that they can use to record, edit, and publish ideas for free. The obstacle is now to cut through the nonsense being made.
 
 # Avoiding hypocrisy
 
@@ -116,8 +118,8 @@ They wrote this and would not abolish slavery for another 89 years. The country 
 
 # Not everyone has to care
 
-Marx sat happily in his office doing opium with his best bud Angle and wrote about how pretty much every human being is oppressed. The people who best understand politics are often the priveleged people who have lots of free time and resources to study it.
+Marx sat happily in his office doing opium with his best bud Angle and wrote about how pretty much every human being is oppressed. The people who best understand politics are often the privileged people who have lots of free time and resources to study it.
 
 I think the fact of the matter is that most people are just doing ok. In a society with an unfathomably large number of people (8,000,000,000 at the time of writing), there will be an unfathomably large number of people who are suffering. But most of them are just ok.
 
-The important part is to help all of the people who are suffering, while harming the average person as little as possible. We can take the super-rich people who are not suffering at all and burn their yachts too if we want. Finally, when we build a good society for everyone, everyone will benefit, not just the people who are currently in poverty, but everyone. I firmly believe that even the current rulers of the world woudl be happier in a world where they have happy people all around them, instead of gold-plated caviar made and delivered by unhappy people.
+The important part is to help all of the people who are suffering, while harming the average person as little as possible. We can take the super-rich people who are not suffering at all and burn their yachts too if we want. Finally, when we build a good society for everyone, everyone will benefit, not just the people who are currently in poverty, but everyone. I firmly believe that even the current rulers of the world would be happier in a world where they have happy people all around them, instead of gold-plated caviar made and delivered by unhappy people.
