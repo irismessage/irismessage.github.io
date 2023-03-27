@@ -7,7 +7,7 @@ tags: mobile app media devies remote earphones
 
 ## Summary
 
-A lot of earphones have a button on the wire you can press to pause music or double-press to skip music, etc. 
+A lot of earphones have a button on the wire you can press to pause music or double-press to skip music, etc.
 
 However, on my phone it often took a long time to pause the music after pressing the button. It would also take a long time to resume or not resume at all. Finally, it would sometimes start google assistant instead of pausing the music. If you have all of these symptoms, this solution is sure to help.
 

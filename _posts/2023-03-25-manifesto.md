@@ -54,7 +54,7 @@ Basically, let your emotions guide you - emotions like love of other people and 
 
 Politics fucking sucks. People everywhere are hurting and dying. Soldiers bleed out in trenches. People are denied medical care and, in the course of trying to go about their day, lose their grip on consciousness and fall down to never wake up again. People in innocent marginalised groups are routinely abused, made to feel awful, and, in extreme cases, beaten and stabbed to death.
 
-Around the world there are hundreds of space rockets, magnificent works of engineering, turned to a twisted purpose. They carry bombs. Put together, all of these bombs are enough to blanket the surface of the entire planet multiple times over, and wipe out 99% of all plant and animal life. 
+Around the world there are hundreds of space rockets, magnificent works of engineering, turned to a twisted purpose. They carry bombs. Put together, all of these bombs are enough to blanket the surface of the entire planet multiple times over, and wipe out 99% of all plant and animal life.
 
 In this theoretical scenario, the survivors would be ridden with melted eyeballs, burns, chronic radiation syndrome, and other horrible injuries. They would eventually be able to rebuild, but it would take a thousand years of darkness. The only thing keeping us from this scenario is a process of checks and balances, big red buttons, and turned keys, a process, unfortunately, also designed by humans.
 
@@ -62,7 +62,7 @@ I understand it poorly, but I know that the people at the highest levels of powe
 
 Besides this theoretical scenario, atrocity on the scale of the entire Planet Earth is already happening. A rise in overall heat, leading to extreme high temperatures, low temperatures, and other dreadful weather effects, has already happened. It will take us decades to reverse this process in a best-case scenario.
 
-The point is, politics is awful. To cope with this, many turn to ignorance and denial, or euphemism. "I don't know what you're talking about, I'm just not really a political person". "Climate change isn't happening at all". "Climate change will sort itself out". "Black people deserve to be enslaved, they are inferior". "Women who get raped are simply asking for it".  People use phrases like "National Security" and "The Economy". 
+The point is, politics is awful. To cope with this, many turn to ignorance and denial, or euphemism. "I don't know what you're talking about, I'm just not really a political person". "Climate change isn't happening at all". "Climate change will sort itself out". "Black people deserve to be enslaved, they are inferior". "Women who get raped are simply asking for it".  People use phrases like "National Security" and "The Economy".
 
 Even when they acknowledge tragedies that happen, people simply decide that nothing can be done, and try to get on with their lives. But this is false. Things have got better, and they will continue to get better. Unfortunately, the first step to tackling a problem is to acknowledge it exists. You have to get a good look at the problem, understand it, and accept that it is real. Accept the truth, the whole truth, and nothing but the truth.
 
@@ -104,7 +104,7 @@ I think the only way is for everyone to understand it. Once a majority of people
 
 This principle can be called *Class Consciousness*. However, it is often overlooked in favour of trying to rush through angry political upheaval. The road to a good world will be long and bumpy.
 
-So, everyone needs to understand politics. At the moment, this knowledge is mostly restricted to nutjobs like me who make it their hobby or their profession. There must be no more telling people to read Marx. Political education should be spread in the most accessible but comprehensive forms possible. No oversimplifications (four legs good, two legs bad...[^thisisjustlikegeorgeorwellsuhhbookninteeneightyfour]) but also no stupidly long and wordy books.
+So, everyone needs to understand politics. At the moment, this knowledge is mostly restricted to nutjobs like me who make it their hobby or their profession. There must be no more telling people to read Marx. Political education should be spread in the most accessible but comprehensive forms possible. No oversimplifications (four legs good, two legs bad...[^thisislikegeorgeorwellsuhhbookninteeneightyfour]) but also no stupidly long and wordy books.
 
 In fact, Marx wrote that "The tradition of all the dead generations weighs like a nightmare on the brain of the living."[^nightmares] Literature is dead, once it is written down and finished, but society and the ideas that drive it are alive. Karl would have probably thought it was pretty funny how people still cling to the written word of his ideas.
 
@@ -140,7 +140,7 @@ The important part is to help all of the people who are suffering, while harming
 [^goosestep]: <https://slate.com/news-and-politics/2003/01/goose-stepping-the-dance-craze-of-tyrants.html>
 [^marx]: <https://www.marxists.org/archive/marx/works/1848/communist-manifesto/ch02.htm>
 [^maslow]: <https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs>
-[^thisisjustlikegeorgeorwellsuhhbookninteeneightyfour]: *Animal Farm*, George Orwell, 1945 <http://gutenberg.net.au/ebooks01/0100011h.html#ch3> 
+[^thisislikegeorgeorwellsuhhbookninteeneightyfour]: *Animal Farm*, George Orwell, 1945 <http://gutenberg.net.au/ebooks01/0100011h.html#ch3>
 [^nightmares]: <https://www.marxists.org/archive/marx/works/1852/18th-brumaire/ch01.htm>
 [^instinct]: I.E., *Class Instinct*
 [^einsten]: <https://monthlyreview.org/2009/05/01/why-socialism/>

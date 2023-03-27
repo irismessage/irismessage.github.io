@@ -7,7 +7,7 @@ tags: media entertainment games video recommendations
 todo: blurbs? ratings? more info?
 todo: check sort
 
-other favs: 
+other favs:
 - https://open.spotify.com/playlist/04nVefabVJgkE8JwfYpqcR
 
 - Ninja Gaiden (1988)

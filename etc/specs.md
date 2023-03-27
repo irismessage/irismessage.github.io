@@ -1,7 +1,7 @@
 ---
 title: "Specifications"
 date: 2022-01-14 01:26:22 -0000
-tags: 
+tags:
 ---
 
 ## PC Tower

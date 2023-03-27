@@ -47,9 +47,9 @@ Use any one of these links.
 
     Uploaded to the Internet Archive by me.
 
-[Support Space Quest Historian](https://www.patreon.com/SpaceQuestHistorian)    
-[Support RevScarecrow](https://vinesauce.com/shop/)    
-[Support the Internet Archive](https://archive.org/donate)
+- [Support Space Quest Historian](https://www.patreon.com/SpaceQuestHistorian)
+- [Support RevScarecrow](https://vinesauce.com/shop/)
+- [Support the Internet Archive](https://archive.org/donate)
 
 ### Guide
 
