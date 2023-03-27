@@ -2,7 +2,10 @@
 title: Politics
 date: 2023-03-26 22:03:07 +0100
 tags: politics manifesto cw marxism communism anarchism
+published: false
 ---
+
+to add: most tumultous part of human history
 
 # The Guerrilla Education Manifesto
 
@@ -46,13 +49,13 @@ Basically, let your emotions guide you - emotions like love of other people and 
 
 # The role of comedy in politics
 
-**Content warning for this section: war, death, nuclear catastrophe, climate disaster, hate crimes**
+**Content warning for this section: war, death, medical science, nuclear catastrophe, climate disaster, hate crimes**
 
 Politics fucking sucks. People everywhere are hurting and dying. Soldiers bleed out in trenches. People are denied medical care and, in the course of trying to go about their day, lose their grip on consciousness and fall down to never wake up again. People in innocent marginalised groups are routinely abused, made to feel awful, and, in extreme cases, beaten and stabbed to death.
 
 Around the world there are hundreds of space rockets, magnificent works of engineering, turned to a twisted purpose. They carry bombs. Put together, all of these bombs are enough to blanket the surface of the entire planet multiple times over, and wipe out 99% of all plant and animal life. 
 
-In this theoretical scenario, the survivors would be ridden with burns, melted eyeballs, and other horrible injuries. They would eventually be able to rebuild, but it would take a thousand years of darkness. The only thing keeping us from this scenario is a process of checks and balances, big red buttons, and turned keys, a process, unfortunately, also designed by humans.
+In this theoretical scenario, the survivors would be ridden with melted eyeballs, burns, chronic radiation syndrome, and other horrible injuries. They would eventually be able to rebuild, but it would take a thousand years of darkness. The only thing keeping us from this scenario is a process of checks and balances, big red buttons, and turned keys, a process, unfortunately, also designed by humans.
 
 I understand it poorly, but I know that the people at the highest levels of power in this process are people like Vladimir Putin and Donald Trump, mad people who already send thousands to their deaths.
 
@@ -88,7 +91,7 @@ No one will be driven to mug you for your purse if no one is lacking money to bu
 
 Even the rulers and enforcers who are oppressing humanity right now have to be provided rights, so far as that doesn't stop us from freeing others. Guillotines are fun symbolism, but all life has value, even the lives of those who don't value life.
 
-The abolition of private property is a highly likely to be a required step. We have to try whatever is necessary to accomplish this - regulated capitalism, democratic socialism, minarchism, anarchism, libertarian socialism, state communism, collectivism - voting, peaceful protest, riots, reading groups, armed revolution and mutual aid. We will apply the scientific method, common sense, spontaneous, natural kindness for one another, and centuries of hard work to build the best society possible.
+The abolition of private property is a highly likely to be a required step. We have to try whatever is necessary to accomplish this - regulated capitalism, democratic socialism, minarchism, anarchism, libertarian socialism, state communism, collectivism, syndicalism - voting, peaceful protest, riots, reading groups, armed revolution and mutual aid. We will apply the scientific method, common sense, spontaneous, natural kindness for one another, and centuries of hard work to build the best society possible.
 
 The names of ideologies are descriptive, not prescriptive. I do not know what the future will hold, but I know that it will be beautiful.
 
