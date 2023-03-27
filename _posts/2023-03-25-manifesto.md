@@ -1,8 +1,8 @@
 ---
-title: Politics
+title: Political Treatise
 date: 2023-03-26 22:03:07 +0100
 tags: politics manifesto cw marxism communism anarchism
-published: false
+category: WIP
 ---
 
 to add: most tumultous part of human history

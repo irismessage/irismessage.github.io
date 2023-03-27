@@ -2,7 +2,7 @@
 title: "How to run King's Quit on emulator without a disk"
 date: 2021-12-21 17:07:12 -0000
 tags: games media dosbox retro sierra vinesauce rev revscarecrow vinesauce kingsquit kingsquest rom romhack cdrom
-published: false
+category: WIP
 ---
 
 ## Introduction
