@@ -8,6 +8,8 @@ category: WIP
 to add: most tumultous part of human history
 {% endcomment %}
 
+Revolutionary spirit in cube
+
 # The Guerrilla Education Manifesto
 
 ## The sacred duty of the Educator, the Documentator, and the Archivist
