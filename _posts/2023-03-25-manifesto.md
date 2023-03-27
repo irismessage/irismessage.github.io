@@ -4,8 +4,9 @@ date: 2023-03-26 22:03:07 +0100
 tags: politics manifesto cw marxism communism anarchism
 category: WIP
 ---
-
+{% comment %}
 to add: most tumultous part of human history
+{% endcomment %}
 
 # The Guerrilla Education Manifesto
 
@@ -33,7 +34,7 @@ Unfortunately, complex problems cannot have simple solutions, as a rule. Even if
 
 Continental Philosophers fail by making everything more complicated than it needs to be. They retreat into millions upon millions of words of very fancy sounding language. They might be having fun, but they aren't really helping to change anything.
 
-# Emotion and Reason
+# Emotion and Reason, or, *Scientific Communism*
 
 Human beings are emotional creatures, whether we like it or not. Rationality is our invention, but it doesn't necessarily come naturally to us.
 
@@ -133,17 +134,17 @@ I think the fact of the matter is that most people are just doing ok. In a socie
 
 The important part is to help all of the people who are suffering, while harming the average person as little as possible. We can take the super-rich people who are not suffering at all and burn their yachts too if we want. Finally, when we build a good society for everyone, everyone will benefit, not just the people who are currently in poverty, but everyone. I firmly believe that even the current rulers of the world would be happier in a world where they have happy people all around them, instead of gold-plated caviar made and delivered by unhappy people.
 
-[^science] <http://philotextes.info/spip/IMG/pdf/popper-logic-scientific-discovery.pdf>
-[^cthulhu] *The CALL of CTHULHU*, Harry Potter Lovecraft, 1928 <https://www.gutenberg.org/cache/epub/68283/pg68283-images.html>
-[^hugoboss] <https://www.jewishvirtuallibrary.org/hugo-boss-and-the-nazis>
-[^goosestep] <https://slate.com/news-and-politics/2003/01/goose-stepping-the-dance-craze-of-tyrants.html>
-[^marx] <https://www.marxists.org/archive/marx/works/1848/communist-manifesto/ch02.htm>
-[^maslow] <https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs>
-[^thisisjustlikegeorgeorwellsuhhbookninteeneightyfour] *Animal Farm*, George Orwell, 1945 <http://gutenberg.net.au/ebooks01/0100011h.html#ch3> 
-[^nightmares] <https://www.marxists.org/archive/marx/works/1852/18th-brumaire/ch01.htm>
-[^instinct] I.E., *Class Instinct*
-[^einsten] <https://monthlyreview.org/2009/05/01/why-socialism/>
-[^obscure] *RWBY Is Disappointing, And Here's Why*, hbomberguy, 2020. I didn't even watch this one because I don't care <https://youtu.be/81fdKWOHrdE>
-[^soy] *SOY BOYS: A MEASURED RESPONSE*, hbomberguy, 2018 <https://youtu.be/C8dfiDeJeDU>
-[^america] <https://www.archives.gov/founding-docs/declaration-transcript>
-[^abolition] <https://www.archives.gov/milestone-documents/13th-amendment> Why does the USA get `.gov` anyway?? Give yourselves `.gov.us` or something. wankers
+[^science]: <http://philotextes.info/spip/IMG/pdf/popper-logic-scientific-discovery.pdf>
+[^cthulhu]: *The CALL of CTHULHU*, Harry Potter Lovecraft, 1928 <https://www.gutenberg.org/cache/epub/68283/pg68283-images.html>
+[^hugoboss]: <https://www.jewishvirtuallibrary.org/hugo-boss-and-the-nazis>
+[^goosestep]: <https://slate.com/news-and-politics/2003/01/goose-stepping-the-dance-craze-of-tyrants.html>
+[^marx]: <https://www.marxists.org/archive/marx/works/1848/communist-manifesto/ch02.htm>
+[^maslow]: <https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs>
+[^thisisjustlikegeorgeorwellsuhhbookninteeneightyfour]: *Animal Farm*, George Orwell, 1945 <http://gutenberg.net.au/ebooks01/0100011h.html#ch3> 
+[^nightmares]: <https://www.marxists.org/archive/marx/works/1852/18th-brumaire/ch01.htm>
+[^instinct]: I.E., *Class Instinct*
+[^einsten]: <https://monthlyreview.org/2009/05/01/why-socialism/>
+[^obscure]: *RWBY Is Disappointing, And Here's Why*, hbomberguy, 2020. I didn't even watch this one because I don't care <https://youtu.be/81fdKWOHrdE>
+[^soy]: *SOY BOYS: A MEASURED RESPONSE*, hbomberguy, 2018 <https://youtu.be/C8dfiDeJeDU>
+[^america]: <https://www.archives.gov/founding-docs/declaration-transcript>
+[^abolition]: <https://www.archives.gov/milestone-documents/13th-amendment> Why does the USA get `.gov` anyway?? Give yourselves `.gov.us` or something. wankers
