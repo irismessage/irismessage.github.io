@@ -104,7 +104,7 @@ I think the only way is for everyone to understand it. Once a majority of people
 
 This principle can be called *Class Consciousness*. However, it is often overlooked in favour of trying to rush through angry political upheaval. The road to a good world will be long and bumpy.
 
-So, everyone needs to understand politics. At the moment, this knowledge is mostly restricted to nutjobs like me who make it their hobby or their profession. There must be no more telling people to read Marx. Political education should be spread in the most accessible but comprehensive forms possible. No oversimplifications (four legs good, two legs bad...[^thisislikegeorgeorwellsuhhbookninteeneightyfour]) but also no stupidly long and wordy books.
+So, everyone needs to understand politics. At the moment, this knowledge is mostly restricted to nutjobs like me who make it their hobby or their profession. There must be no more telling people to read Marx. Political education should be spread in the most accessible but comprehensive forms possible. No oversimplifications (four legs good, two legs bad...[^thisislikegeorgeorwellsuhhbookninteeneightyfour]) but also no stupidly long and wordy books.[^morewell]
 
 In fact, Marx wrote that "The tradition of all the dead generations weighs like a nightmare on the brain of the living."[^nightmares] Literature is dead, once it is written down and finished, but society and the ideas that drive it are alive. Karl would have probably thought it was pretty funny how people still cling to the written word of his ideas.
 
@@ -141,6 +141,7 @@ The important part is to help all of the people who are suffering, while harming
 [^marx]: <https://www.marxists.org/archive/marx/works/1848/communist-manifesto/ch02.htm>
 [^maslow]: <https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs>
 [^thisislikegeorgeorwellsuhhbookninteeneightyfour]: *Animal Farm*, George Orwell, 1945 <http://gutenberg.net.au/ebooks01/0100011h.html#ch3>
+[^morewell]: <https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/>
 [^nightmares]: <https://www.marxists.org/archive/marx/works/1852/18th-brumaire/ch01.htm>
 [^instinct]: I.E., *Class Instinct*
 [^einsten]: <https://monthlyreview.org/2009/05/01/why-socialism/>
