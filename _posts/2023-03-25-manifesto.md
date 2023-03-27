@@ -4,11 +4,6 @@ date: 2023-03-26 22:03:07 +0100
 tags: politics manifesto cw marxism communism anarchism
 category: WIP
 ---
-{% comment %}
-to add: most tumultous part of human history
-{% endcomment %}
-
-Revolutionary spirit in cube
 
 # The Guerrilla Education Manifesto
 
@@ -34,13 +29,15 @@ Marxist-Leninists failed by attempting to pre-empt the progression of society. T
 
 Unfortunately, complex problems cannot have simple solutions, as a rule. Even if their desires to create a more fair world were valid, the systems they managed to create - the "Soviet Union" and the "People's Republic of China" - were not good.
 
-Continental Philosophers fail by making everything more complicated than it needs to be. They retreat into millions upon millions of words of very fancy sounding language. They might be having fun, but they aren't really helping to change anything.
+For sure, the revolutionary spirit in Cuba is now dead because it was never actually alive. It mostly existed as hero-worship for the people who fought for it, but now that they have failed or died, and the rest of the world has closed in with embargoes, people naturally no longer believe in the promises of their saviours.[^whoopsie]
 
-# Emotion and Reason, or, *Scientific Communism*
+Continental Philosophers fail by making everything more complicated than it needs to be. They retreat into millions upon millions of words of very fancy sounding language. They might be having fun, but they aren't really helping to change anything. They spend their time debating each another over pedantic, tiny, "intellectual" issues.
+
+# Emotion and Reason
 
 Human beings are emotional creatures, whether we like it or not. Rationality is our invention, but it doesn't necessarily come naturally to us.
 
-Some Thinkers will try to remove emotion from science and philosophy altogether. They try to act like the Vulcans (Mr. Spock) from Star Trek, try to become pure and unquestionable Knight-Philosophers of Reason. Unfortunately, this seems to result in making arguments just as emotionally charged as others, but with more misplaced confidence.
+Some Thinkers will try to remove emotion from science and philosophy altogether. They try to act like the Vulcans (Mr. Spock) from Star Trek, try to become pure and unquestionable Knight-Philosophers of Reason[^discobaby]. Unfortunately, this seems to result in making arguments just as emotionally charged as others, but with more misplaced confidence.
 
 In my opinion, the best way to good outcomes is to stay humble and to follow the scientific method. The scientific method, like most things, is really incredibly simple in hindsight. "If you want to say something is true, check if it is true. (Then, whenever you get new information, check again. Repeat as many times as needed.)" Somehow, it took us tens of thousands of years to develop this method of *Empirical Falsifiability*.[^science]
 
@@ -62,7 +59,7 @@ In this theoretical scenario, the survivors would be ridden with melted eyeballs
 
 I understand it poorly, but I know that the people at the highest levels of power in this process are people like Vladimir Putin and Donald Trump, mad people who already send thousands to their deaths.
 
-Besides this theoretical scenario, atrocity on the scale of the entire Planet Earth is already happening. A rise in overall heat, leading to extreme high temperatures, low temperatures, and other dreadful weather effects, has already happened. It will take us decades to reverse this process in a best-case scenario.
+Besides this theoretical scenario, atrocity on the scale of the entire Planet Earth is already happening. A rise in overall heat, leading to extreme high temperatures, low temperatures, and other dreadful weather effects, has already happened. It will take us decades to reverse this process in a best-case scenario. I think we're probably living in the fastest and messiest period of human history ever. When Genghis Khan took his reign of terror across Mongolia, at least the people on the other side of the world were none the wiser. These days, we can send messages across the globe in an instant, people across the globe in a day, empires and pollutants across the globe in only a few years. We have no choice but to come together and do better, or all die at once.
 
 The point is, politics is awful. To cope with this, many turn to ignorance and denial, or euphemism. "I don't know what you're talking about, I'm just not really a political person". "Climate change isn't happening at all". "Climate change will sort itself out". "Black people deserve to be enslaved, they are inferior". "Women who get raped are simply asking for it".  People use phrases like "National Security" and "The Economy".
 
@@ -74,13 +71,13 @@ All of this, and half the time, when you try to talk about it with anyone else, 
 
 Thankfully we have a bunch of coping mechanisms we can find to use. One of my favourite ones is comedy. Even if the issues are very serious, making light of them can make them much more tolerable. Also, fascists always want to be taken seriously, with their flat, grey, Hugo Boss[^hugoboss] uniforms and their goose-stepping[^goosestep]. If we treat the whole of politics as the joke that it is, we can speak truth to power more effectively.
 
-# The Manifesto
+# The Manifesto, or, *Scientific Communism*
 
 In The Communist Manifesto, Karl Marx defined the goal of Communism as "the abolition of private property".[^marx] This was apparently the best he could do. I propose a new, universal, almost irreducible goal for Worldwide Communism:
 
 > Full human rights for every human being, without exception.
 >
-> This means every right, from the more well-defined ones to the vaguer ones - food, water, clean air, shelter, hygiene, healthcare, dignity, respect, work, freedom of movement, freedom of speech, freedom of religion, freedom from violence, freedom of love, creativity.
+> This means every right, from the more well-defined ones to the vaguer ones - food, water, clean air, shelter, hygiene, healthcare, dignity, respect, freedom to work or not, freedom of movement, freedom of speech, freedom of religion, freedom from violence, freedom of love, creativity.
 >
 > These rights must be provided to every human being, utterly without exception - regardless of age, sex, gender, sexuality, ethnicity, disability, neuro-divergence, where you were born, personality.
 >
@@ -126,7 +123,7 @@ Thomas Jefferson and his co-authors wrote this[^america]:
 
 > We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.--That to secure these rights, Governments are instituted among Men, deriving their just powers from the consent of the governed, --That whenever any Form of Government becomes destructive of these ends, it is the Right of the People to alter or to abolish it, and to institute new Government, laying its foundation on such principles and organizing its powers in such form, as to them shall seem most likely to effect their Safety and Happiness.
 
-They wrote this and would not abolish slavery for another 89 years.[^abolition] The country they founded is now itself one of the greatest forces of oppression in the world, at the same time as it is a force of freedom. Being a hypocrite is inevitable. When others are wrong, set them straight. When you are wrong, try to understand how you are wrong, and try to change. When power is wrong, dismantle it and build it back better.
+They wrote this and would not abolish slavery for another 89 years.[^abolition] The country they founded is now itself one of the greatest forces of oppression in the world, at the same time as it is a force of freedom. Being a hypocrite is inevitable. Liberals were once revolutionary but they are now hypocrites, because they cling onto their ideas in the face of their failure. When others are wrong, set them straight. When you are wrong, try to understand how you are wrong, and try to change. When power is wrong, dismantle it and build it back better.
 
 # Not everyone has to care
 
@@ -136,6 +133,8 @@ I think the fact of the matter is that most people are just doing ok. In a socie
 
 The important part is to help all of the people who are suffering, while harming the average person as little as possible. We can take the super-rich people who are not suffering at all and burn their yachts too if we want. Finally, when we build a good society for everyone, everyone will benefit, not just the people who are currently in poverty, but everyone. I firmly believe that even the current rulers of the world would be happier in a world where they have happy people all around them, instead of gold-plated caviar made and delivered by unhappy people.
 
+[^discobaby]: Don't Google this phrase because I mostly ripped it off wholesale from Disco Elysium and you'll get spoilers. Play the game first.
+[^whoopsie]: <https://en.wikipedia.org/wiki/Red_fascism>
 [^science]: <http://philotextes.info/spip/IMG/pdf/popper-logic-scientific-discovery.pdf>
 [^cthulhu]: *The CALL of CTHULHU*, Harry Potter Lovecraft, 1928 <https://www.gutenberg.org/cache/epub/68283/pg68283-images.html>
 [^hugoboss]: <https://www.jewishvirtuallibrary.org/hugo-boss-and-the-nazis>
