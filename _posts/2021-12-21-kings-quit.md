@@ -3,6 +3,7 @@ title: "How to run King's Quit on emulator without a disk"
 date: 2021-12-21 17:07:12 -0000
 tags: games media dosbox retro sierra vinesauce rev revscarecrow vinesauce kingsquit kingsquest rom romhack cdrom
 category: WIP
+permalink: /:year/:month/:day/:title:output_ext
 ---
 
 ## Introduction
@@ -12,8 +13,6 @@ This article has been a fair undertaking and is currently a work in progress. I'
 ## Solution
 
 To play King's Quit you need any normal release of the 1991 multimedia version, and the audio resource file from the obscure 1995 SierraOriginals release. The SierraOriginals version is the *only* version with the unique audio resource file which makes the glitch work.
-
-I've sourced and mirrored these files so that you can download them easily. I'm currently personally seeding the torrent files if you want faster download from archive.org.
 
 ### Downloads
 
@@ -113,7 +112,7 @@ You can also refer to this video I recorded which shows the same steps as well a
 
         ```dosbatch
         mount c C:\Users\joelm\dos\harddrive
-        mount d C\Users\joelm\dos\KQ5
+        mount d C:\Users\joelm\dos\KQ5
         d:
         install
         ```
