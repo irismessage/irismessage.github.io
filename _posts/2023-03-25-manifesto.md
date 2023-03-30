@@ -185,11 +185,11 @@ All of these are fairly short and readable.
 - *Cyber Communism*, Richard Barbrook, 2007 <http://www.imaginaryfutures.net/2007/04/17/cyber-communism-how-the-americans-are-superseding-capitalism-in-cyberspace/>
 - Older theory can have a lot of boring writing and a lot of stuff from the time it was written that doesn't matter any more, but it also has lots of important ideas
     - *The Communist Manifesto*, Marx, Engels, and Samuel Moore, 1848 translated 1888 <https://www.marxists.org/archive/marx/works/1848/communist-manifesto/>
-    - *The Conquest of Bread* ,Petr Kropotkin, 1892 <https://www.gutenberg.org/cache/epub/23428/pg23428-images.html>
+    - *The Conquest of Bread*, Petr Kropotkin, 1892 <https://www.gutenberg.org/cache/epub/23428/pg23428-images.html>
 - <https://www.amazon.co.uk/Books-Bernie-Sanders/s?rh=n%3A266239%2Cp_27%3ABernie+Sanders>
 - <https://www.theguardian.com/books/2016/nov/24/four-futures-life-after-capitalism-peter-frase-review-robots>
 - <https://chomsky.info/consent01/>
-- These podcasts are very funny and have lots of good ideas to learn. They generally have 50% free episodes and 50% paywalled. I use AntennaPod (https://antennapod.org/) to listen to them all from one place
+- These podcasts are very funny and have lots of good ideas to learn. They generally have 50% free episodes and 50% paywalled. I use AntennaPod (<https://antennapod.org/>) to listen to them all from one place
     - <https://trashfuturepodcast.podbean.com/>
     - *Chapo Trap House* <https://open.spotify.com/show/1ZfEmftOCw3AzhpyCIfFwF>
     - <https://www.stitcher.com/show/qanon-anonymous>
