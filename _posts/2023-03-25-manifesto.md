@@ -25,9 +25,9 @@ History is constantly being produced. Some of the most significant historical te
 
 This is the inevitable part of my manifesto where I spend my time complaining about other people who I mostly agree with.
 
-Marxist-Leninists failed by attempting to pre-empt the progression of society. Their "Vanguard Party of the Revolution" doctrine casted them as saviours who would take their understanding of socio-economics and impose it on the human race by military force.
+Marxist-Leninists failed by attempting to pre-empt the progression of society. Their "Vanguard Party of the Revolution" doctrine casted them as saviours who would take their understanding of socio-economics and impose it on the human race by military force. Marx and Engels wrote predictions of the future of humanity, not instructions.
 
-Unfortunately, complex problems cannot have simple solutions, as a rule. Even if their desires to create a more fair world were valid, the systems they managed to create - the "Soviet Union" and the "People's Republic of China" - were not good. Marx and Engels wrote predictions of the future of humanity, not instructions.
+Unfortunately, complex problems cannot have simple solutions, as a rule. You cannot build freedom by taking away freedom. It is absurd. Even if their desires to create a more fair world were valid, the systems they managed to create - the "Soviet Union" and the "People's Republic of China" - were not exactly perfect. 
 
 For sure, the "revolutionary spirit" in Cuba is now mostly dead because it was never securely alive. It mostly existed as hero-worship for the people who fought for it, but now that they have failed or died, and the rest of the world has closed in with embargoes, people naturally no longer believe in the promises of their saviours.[^whoopsie]
 
@@ -51,7 +51,7 @@ Basically, let your emotions guide you - emotions like love of other people and 
 
 **Content warning for this section: war, death, medical science, nuclear catastrophe, climate disaster, hate crimes, racism, sexual assault**
 
-Politics fucking sucks. People everywhere are hurting and dying. Soldiers bleed out in trenches. People are denied medical care and, in the course of trying to go about their day, lose their grip on consciousness and fall down to never wake up again. People in innocent marginalised groups are routinely abused, made to feel awful, and, in extreme cases, beaten and stabbed to death.
+Politics fucking sucks. People everywhere are hurting and dying. Soldiers bleed out in ditches. People are denied medical care and, in the course of trying to go about their day, lose their grip on consciousness and fall down to never wake up again. People in innocent marginalised groups are routinely abused, made to feel awful, and, in extreme cases, beaten and stabbed to death.
 
 Around the world there are hundreds of space rockets, magnificent works of engineering, turned to a twisted purpose. They carry bombs. Put together, all of these bombs are enough to blanket the surface of the entire planet multiple times over, and wipe out 99% of all plant and animal life.
 
@@ -158,7 +158,7 @@ Never give up hope for a better world just because there are setbacks. Just beca
 >  It is possible to commit no mistakes and still lose. That is not a weakness. That is life.
 - Patrick Stewart as Jean-Luc Picard, written by Gene Roddenberry, David Kemper, and Melinda Snodgrass
 
-Already, as I write this, the people of France are in the government buildings[^marseillaise] and in the streets[^debout] to demand democratic process and rights for older people. In New Zealand, trans-positive counter-protestors gathered in the thousands to drown out hate speech and have a party afterwards. In the United States of America, activists have been fighting for two long years to slow authoritarianism and protect nature.[^copcity] Outside of my narrow Euro-american sphere of awareness, and inside it, hundreds of other fights take place every month.
+Already, as I write this, the people of France are in the government buildings[^marseillaise] and in the streets[^debout] to demand democratic process and rights for older people. In New Zealand, trans-positive counter-protestors gathered in the thousands to drown out hate speech and have a party afterwards. In the United States of America, activists have been fighting for two long years to slow authoritarianism and protect nature.[^copcity] Outside of my narrow Euro-american sphere of awareness, and inside it, hundreds of other fights take place every month. *We eradicated Smallpox*.[^smallpox] The fight for justice will go on for as long as humanity does. 
 
 Another thing to remember is that your wellbeing affects how you see the world, even more than the actual state of the world does. Personal positivity is always good for you, and good for the movement, because the healthier you are, the more you could contribute to the movement. It's entirely possible to be positive without being in denial. I call this *critical optimism*, but I'm sure the idea has already been described in plenty of other places, probably like Optimistic Realism/Nihlism or something. Self-improvement doesn't only have to be the realm of Jordan Peterson: you can improve yourself and society, in tandem in a virtuous cycle.
 
@@ -186,6 +186,9 @@ All of these are fairly short and readable.
 - Older theory can have a lot of boring writing and a lot of stuff from the time it was written that doesn't matter any more, but it also has lots of important ideas
     - *The Communist Manifesto*, Marx, Engels, and Samuel Moore, 1848 translated 1888 <https://www.marxists.org/archive/marx/works/1848/communist-manifesto/>
     - *The Conquest of Bread* ,Petr Kropotkin, 1892 <https://www.gutenberg.org/cache/epub/23428/pg23428-images.html>
+- <https://www.amazon.co.uk/Books-Bernie-Sanders/s?rh=n%3A266239%2Cp_27%3ABernie+Sanders>
+- <https://www.theguardian.com/books/2016/nov/24/four-futures-life-after-capitalism-peter-frase-review-robots>
+- <https://chomsky.info/consent01/>
 - These podcasts are very funny and have lots of good ideas to learn. They generally have 50% free episodes and 50% paywalled. I use AntennaPod (https://antennapod.org/) to listen to them all from one place
     - <https://trashfuturepodcast.podbean.com/>
     - *Chapo Trap House* <https://open.spotify.com/show/1ZfEmftOCw3AzhpyCIfFwF>
@@ -223,9 +226,10 @@ All of these are fairly short and readable.
 [^abolition]: <https://www.archives.gov/milestone-documents/13th-amendment> Why does the USA get `.gov` anyway?? Give yourselves `.gov.us` or something. wankers
 [^huxley]: <https://gutenberg.ca/ebooks/huxleya-bravenewworld/huxleya-bravenewworld-00-h.html>
 [^marseillaise]: *French MPs sing Marseillaise and boo as PM forces through pension reform bill*, Guardian News, 2023 <https://youtu.be/E5U6A2zuWyI>
-[^debout] *King Charles's France visit postponed after pension protests*, BBC, 2023 <https://www.bbc.co.uk/news/uk-65064510>
-[^copcity] <https://crimethinc.com/2023/02/22/the-forest-in-the-city-two-years-of-forest-defense-in-atlanta-georgia>
-[^nfts] *Line Goes Up – The Problem With NFTs*, Folding Ideas (Dan Olson), 2022 <https://youtu.be/YQ_xWvX1n9g>
+[^debout]: *King Charles's France visit postponed after pension protests*, BBC, 2023 <https://www.bbc.co.uk/news/uk-65064510>
+[^copcity]: <https://crimethinc.com/2023/02/22/the-forest-in-the-city-two-years-of-forest-defense-in-atlanta-georgia>
+[^smallpox]: <https://www.nationalgeographic.com/science/article/smallpox>
+[^nfts]: *Line Goes Up – The Problem With NFTs*, Folding Ideas (Dan Olson), 2022 <https://youtu.be/YQ_xWvX1n9g>
 
 [charmander]: https://i.redd.it/laq9s2qvk5b81.png
 [standfortheflag]: https://i.redd.it/zcdxy3p96cqa1.jpg
