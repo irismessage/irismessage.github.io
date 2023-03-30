@@ -117,8 +117,8 @@ But the revolutionary spirit is higher than ever.[^instinct] My generation was b
 
 But hatred can never persevere. It is perverse to hate so much. It is not natural nor is it healthy. We have to offer real solutions that will work. The time will come to be communist in public again. Stand on the street like a Jehovah's Witness and tell people (as far as the law allows, or further if you have nothing to lose). Show people *Why Socialism?* by Albert Einstein[^einsten] - appeal to authority is always good. Hold classes in political science and philosophy in parks or whatever rooms you can book. Tell your family and friends. Above all, be kind to one another. Don't talk down to people for not understanding things. No one understands anything without it being taught to them, and bad, deeply held ideas are rife. Don't make spreading political education your entire personality, because it's unsustainable and unhelpful to the cause as well as yourself. Bear with each other and love one another.
 
-This is similar to the "Loud and proud" attitude that is winning so much for the LGBTQ+ community
-![cool propaganda][standfortheflag]
+*This is similar to the "Loud and proud" attitude that is winning so much for the LGBTQ+ community. "We're here, we're queer, put up with it"*
+![cool propaganda][standfortheflag]{:width="25%"}
 
 Video essayists, I urge you to give up some of your artistic integrity. Sometimes it's ok to tell people what conclusions you think they should draw. You don't *just* have to make videos on obscure TV shows, you know.[^obscure] Political opponents will call you a communist whether or not you say it out loud. You don't just have to make videos refuting bad ideas.[^soy] Spread good ideas and explain them as clearly as possible.
 
@@ -162,7 +162,7 @@ Already, as I write this, the people of France are in the government buildings[^
 
 Another thing to remember is that your wellbeing affects how you see the world, even more than the actual state of the world does. Personal positivity is always good for you, and good for the movement, because the healthier you are, the more you could contribute to the movement. It's entirely possible to be positive without being in denial. I call this *critical optimism*, but I'm sure the idea has already been described in plenty of other places, probably like Optimistic Realism/Nihlism or something. Self-improvement doesn't only have to be the realm of Jordan Peterson: you can improve yourself and society, in tandem in a virtuous cycle.
 
-![Charmander][charmander]
+![Charmander][charmander]{:width="25%"}
 
 ## Where to next
 
