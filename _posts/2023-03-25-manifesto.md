@@ -23,7 +23,7 @@ History is constantly being produced. Some of the most significant historical te
 
 ## The failures of other movements
 
-This is the inevitable part of my manifesto where I spend my time complaining about other people who I mostly agree with.
+This is the inevitable part of my manifesto where I spend my time complaining about other people's manifestos.
 
 Marxist-Leninists failed by attempting to pre-empt the progression of society. Their "Vanguard Party of the Revolution" doctrine casted them as saviours who would take their understanding of socio-economics and impose it on the human race by military force. Marx and Engels wrote predictions of the future of humanity, not instructions.
 
@@ -32,6 +32,8 @@ Unfortunately, complex problems cannot have simple solutions, as a rule. You can
 For sure, the "revolutionary spirit" in Cuba is now mostly dead because it was never securely alive. It mostly existed as hero-worship for the people who fought for it, but now that they have failed or died, and the rest of the world has closed in with embargoes, people naturally no longer believe in the promises of their saviours.[^whoopsie]
 
 Continental Philosophers fail by making everything more complicated than it needs to be. They retreat into millions upon millions of words of very fancy sounding language. They might be having fun, but they aren't really helping to change anything. They spend their time debating each other over pedantic, tiny, "intellectual" issues.
+
+The thing to remember is that "Communism" isn't a cure-all. You can't just make a government, slap the word "COMMUNIST" on it, and expect that to fix everything. Likewise, communism is not just a set of ideas. Communism is just a theory, and like all theories it must be tested, implemented, and tweaked.
 
 ## Emotion and Reason
 
@@ -57,7 +59,7 @@ Around the world there are hundreds of space rockets, magnificent works of engin
 
 In this theoretical scenario, the survivors would be ridden with melted eyeballs, burns, chronic radiation syndrome, and other horrible injuries. They would eventually be able to rebuild, but it would take a thousand years of darkness. The only thing keeping us from this scenario is a process of checks and balances, big red buttons, and turned keys, a process, unfortunately, also designed by humans.
 
-I understand it poorly, but I know that the people at the highest levels of power in this process are people like Vladimir Putin and Donald Trump, mad people who already send thousands to their deaths.
+I understand it poorly, but I know that the people at the highest levels of power in this process are people like Vladimir Putin and Donald Trump, mad people who already send thousands to their deaths, in Ukraine and Iraq for example.
 
 Besides this theoretical scenario, atrocity on the scale of the entire Planet Earth is already happening. A rise in overall heat, leading to extreme high temperatures, low temperatures, and other dreadful weather effects, has already happened. It will take us decades to reverse this process in a best-case scenario. I think we're probably living in the fastest and messiest period of human history ever. When Genghis Khan took his reign of terror across Mongolia, at least the people on the other side of the world were none the wiser. These days, we can send messages across the globe in an instant, people across the globe in a day, empires and pollutants across the globe in only a few years. We have no choice but to come together and do better, or all die at once.
 
@@ -65,7 +67,7 @@ The point is, politics is awful. To cope with this, many turn to ignorance and d
 
 Even when they acknowledge tragedies that happen, people simply decide that nothing can be done, and try to get on with their lives. But this is false. Things have got better, and they will continue to get better. Unfortunately, the first step to tackling a problem is to acknowledge it exists. You have to get a good look at the problem, understand it, and accept that it is real. Accept the truth, the whole truth, and nothing but the truth.
 
-When each of us is born, we are plunged into the universe as a whole, and deeper, into the Great Machine of Society. In this machine we are all cogs, wheels, pipes, wires, regulators, and other assorted doodads. No one chooses to be in this machine, but if we are lucky, we find a part of it we love, with other people we love, doing what we were made to do. But staring out at the Great Machine of Society in its current state and trying to grasp all of it is like staring at Cthulhu[^cthulhu] - you go insane.
+When each of us is born, we are plunged into the universe as a whole, and deeper, into the Great Machine of Society. In this machine we are all cogs, wheels, pipes, wires, regulators, and other assorted doodads. No one chooses to be in this machine, but if we are lucky, we find a part of it we love, with other people we love, doing what we were made to do. But staring out at the Great Machine of Society in its current state and trying to grasp all of it is like staring at Cthulhu[^cthulhu] - you go insane. Politics is like an intellectual mirror maze full of emotional spike traps.
 
 All of this, and half the time, when you try to talk about it with anyone else, you just get into an argument over your preconceptions. People treat politics like a sports game of Political Party 1 versus Political Party 2, and if you really care about politics, you're seen as a weirdly devoted sports fan.
 
@@ -89,9 +91,11 @@ I propose a new, universal, almost irreducible goal for Worldwide Communism:
 
 Of course, I also believe in rights for other animals, and even plant life. In a really good world, it shouldn't be that hard to provide those rights too. Treating the environment right slots neatly into place together with treating each other right.
 
-The rights provided should cover the whole of Maslow's Hierarchy of Needs[^maslow] and beyond. They must be provided regardless of whether you're rich or poor, although that concept, as we understand it now, doesn't really need to exist at all. Human rights must be provided regardless of whether you're a criminal or have done something wrong. To the best of my knowledge, crime can basically be sorted into two categories - what you're driven to do, and mistakes you make.
+The rights provided should cover the whole of Maslow's Hierarchy of Needs[^maslow] and beyond. They must be provided regardless of whether you're rich or poor, and regardless of nationality, although those concepts, as we understand them now, doesn't really need to exist at all.
 
-No one will be driven to mug you for your purse if no one is lacking money to buy food and pay rent. People will always still make mistakes, but we can build a kind society where people care for one another, and everyone is told about the best known methods to stay safe and protect others. Volunteer peacekeepers can help guide drunk partygoers home and break up fights - like police officers, but very different to the power-tripping pigs who are all too common.
+Human rights must be provided regardless of whether you're a criminal or have done something wrong. To the best of my knowledge, crime can basically be sorted into two categories - what you're driven to do, and mistakes you make.
+
+No one will be driven to mug you for your purse if no one is lacking money to buy food and pay rent. People will always still make mistakes, but we can build a kind society where people care for one another, and everyone is told about the best methods to stay safe and protect others. Volunteer peacekeepers can help guide drunk partygoers home and break up fights - like police officers, but very different to the power-tripping pigs who are all too common.
 
 Even the rulers and enforcers who are oppressing humanity right now have to be provided rights, so far as that doesn't stop us from providing rights to everyone else. Guillotines are fun symbolism, but all life has value, even the lives of those who don't value life.
 
@@ -107,7 +111,15 @@ I think the only way is for everyone to understand it. Once a majority of people
 
 This principle can be called *Class Consciousness*. However, it is often overlooked in favour of trying to rush through angry political upheaval. The road to a good world will be long and bumpy.
 
-So, everyone needs to understand politics. At the moment, this knowledge is mostly restricted to nutjobs like me who make it their hobby or their profession. There must be no ordering people to read Marx. Political education should be spread in the most accessible but comprehensive forms possible. No oversimplifications (four legs good, two legs bad...[^thisislikegeorgeorwellsuhhbookninteeneightyfour]) but also no stupidly long and wordy books.[^morewell]
+Political thinkers often seem to hold the idea that everyone has the same knowledge, understanding, and goals that they do, committing the *Game Theorists' Fallacy*. Or, they do victim-blaming and blame people just for not understanding things that have never been properly explained to them.
+
+My thinking is very similar to original Marxism, which claims that technological development will inevitably lead to a change in society. In fact, by trying to make as much money as possible selling iPhones, rich people have given us the perfect tool to make art and spread insurrection. Even in the most oppressive regimes, blocks on free speech are easy to bypass if you know how. In less oppressive regimes, if they try to take away our freedom to read and write information[^restrictact], we will not take it sitting down.
+
+Case in point: apartheid emerald mine heir[^likeaminecraftvillagerlolhgnrghgnuhhhnhhhh] Elon Musk's takeover of social media platform Twitter[^twitter]. The people who rule the world are actually very, very stupid (strictly speaking, they're average intelligence, like we all are, but also they're disconnected from reality which makes a difference). While trying to satisfy his ego, he's made it more and more obvious just how stupid he is, plus he's pushed people to other, more free social media, and lost a massive amount of money.
+
+The main addition in my thesis is that society will change by cultural transmission as well as by the advancement of the means of production. This means less of a dedication to accelerationism, and more of an emphasis on love and education.
+
+So, everyone needs to understand politics. At the moment, this knowledge is mostly restricted to nutjobs like me who make it their hobby or their profession. There must be no more ordering people to read Marx. Political education should be spread in the most accessible but comprehensive forms possible. No oversimplifications (four legs good, two legs bad...[^thisislikegeorgeorwellsuhhbookninteeneightyfour]) but also no stupidly long and wordy books.[^morewell]
 
 In fact, Marx wrote that "The tradition of all the dead generations weighs like a nightmare on the brain of the living."[^nightmares] Literature is dead, once it is written down and finished, but society and the ideas that drive it are alive. Not to deny how informative and influential this writing is, Karl would have probably thought it was pretty funny how people still cling to the written word of his ideas.
 
@@ -117,8 +129,9 @@ But the revolutionary spirit is higher than ever.[^instinct] My generation was b
 
 But hatred can never persevere. It is perverse to hate so much. It is not natural nor is it healthy. We have to offer real solutions that will work. The time will come to be communist in public again. Stand on the street like a Jehovah's Witness and tell people (as far as the law allows, or further if you have nothing to lose). Show people *Why Socialism?* by Albert Einstein[^einsten] - appeal to authority is always good. Hold classes in political science and philosophy in parks or whatever rooms you can book. Tell your family and friends. Above all, be kind to one another. Don't talk down to people for not understanding things. No one understands anything without it being taught to them, and bad, deeply held ideas are rife. Don't make spreading political education your entire personality, because it's unsustainable and unhelpful to the cause as well as yourself. Bear with each other and love one another.
 
-*This is similar to the "Loud and proud" attitude that is winning so much for the LGBTQ+ community. "We're here, we're queer, put up with it"*
-![cool propaganda][standfortheflag]{:width="25%"}
+![cool propaganda][standfortheflag]{:width="50%"}
+
+*This is similar to the "Loud and proud" attitude that has done so much for the LGBTQ+ community. "We're here, we're queer, put up with it"*
 
 Video essayists, I urge you to give up some of your artistic integrity. Sometimes it's ok to tell people what conclusions you think they should draw. You don't *just* have to make videos on obscure TV shows, you know.[^obscure] Political opponents will call you a communist whether or not you say it out loud. You don't just have to make videos refuting bad ideas.[^soy] Spread good ideas and explain them as clearly as possible.
 
@@ -153,24 +166,30 @@ However, these opportunities are not always available. Often, the best thing you
 
 Never lose hope just because we didn't finish the work yet. In fact, even in an ideal world, an unfathomably large number of people still means an unfathomably large amount of suffering. Some suffering can be a natural and healthy part of human life. Our objective is only to eradicate unjust, gratuitous suffering. The only alternative to that is a dystopia where we're all getting sprayed with drugs to make us insanely euphoric all the time.[^huxley]
 
-Never give up hope for a better world just because there are setbacks. Just because Corbyn or Sanders aren't head of state yet doesn't mean we're not going to make some change eventually. Abolishing monarchism and switching to democracy, abolishing slavery, abolishing apartheid, winning the vote for women: all of these things seemed impossible before we did them.
+Never give up hope for a better world just because there are setbacks. Just because Corbyn or Sanders aren't head of state yet doesn't mean we're not going to make some change eventually. Abolishing monarchism and switching to democracy, abolishing slavery, abolishing apartheid, winning the vote for women: all of these things seemed impossible before we did them.[^impossibility] *We eradicated Smallpox*.[^smallpox]
 
 >  It is possible to commit no mistakes and still lose. That is not a weakness. That is life.
 - Patrick Stewart as Jean-Luc Picard, written by Gene Roddenberry, David Kemper, and Melinda Snodgrass
 
-Already, as I write this, the people of France are in the government buildings[^marseillaise] and in the streets[^debout] to demand democratic process and rights for older people. In New Zealand, trans-positive counter-protestors gathered in the thousands to drown out hate speech and have a party afterwards. In the United States of America, activists have been fighting for two long years to slow authoritarianism and protect nature.[^copcity] Outside of my narrow Euro-american sphere of awareness, and inside it, hundreds of other fights take place every month. *We eradicated Smallpox*.[^smallpox] The fight for justice will go on for as long as humanity does. 
+Already, as I write this, the people of France are in the government buildings[^marseillaise] and in the streets[^debout] to demand democratic process and rights for older people. In New Zealand, trans-positive counter-protestors gathered in the thousands to drown out hate speech and have a party afterwards. In the United States of America, activists have been fighting for two long years to slow authoritarianism and protect nature.[^copcity] Outside of my narrow Euro-american sphere of awareness (and inside it) hundreds of other fights take place every month. The fight for justice will go on for as long as humanity does. Even if the ruling class took up the impossible task of burning every piece of political theory and killing every opponent, the ideas of freedom would re-occur.
 
-Another thing to remember is that your wellbeing affects how you see the world, even more than the actual state of the world does. Personal positivity is always good for you, and good for the movement, because the healthier you are, the more you could contribute to the movement. It's entirely possible to be positive without being in denial. I call this *critical optimism*, but I'm sure the idea has already been described in plenty of other places, probably like Optimistic Realism/Nihlism or something. Self-improvement doesn't only have to be the realm of Jordan Peterson: you can improve yourself and society, in tandem in a virtuous cycle.
+Another thing to remember is that your wellbeing affects how you see the world, even more than the actual state of the world does. Personal positivity is always good for you, and good for the movement, because the healthier you are, the more you could contribute to the movement. It's entirely possible to be positive without being in denial. I call this *critical optimism*, but I'm sure the idea has already been described in plenty of other places, probably like Optimistic Realism/Nihilism or something. Self-improvement doesn't only have to be the realm of Jordan Peterson and grindset neoliberals: you can improve yourself and society, in tandem in a virtuous cycle.
 
-![Charmander][charmander]{:width="25%"}
+![Figure 2](/assets/images/manifesto/diagram.png){:width="50%"}
+
+*\*Not to scale*
+
+![Charmander][charmander]{:width="50%"}
 
 ## Where to next
 
-I wrote this for myself and for people like me who have a general idea of the problems but lack hope and a coherent ideology. If you want to learn more, here's some further reading. 
+I wrote this for myself and for people like me who have a general idea of the problems but lack hope and a coherent ideology. I wrote it as a therapy technique - to create an intellectual basis for optimism which would compound my emotional and physical wellbeing - and because I felt it was important. However, if you want to learn more, here's some further reading.
 
 The lack of a single mostly neutral source is one of the things that motivated me to write this, hoping someone will make or find one. When you Google "Introduction to Communism", or "Introduction to Politics", most of the sources will be heavily unprofessional, or biased, or unclear, or distracted. I feel like we need a single video to point back to, something that will do for politics as a whole what *Line Goes Up*[^nfts] did for NFTS.
 
 If you have more sources, especially if you created one, feel free to submit them and I'll add them. Feel free to make any other suggestions for changes too.
+
+For the premium books, look to your local libraries. If you can't find one there, maybe there's another kind of library that starts with "z"
 ### Introduction
 All of these are fairly short and readable.
 - *Are You An Anarchist? The Answer May Surprise You!* David Graeber, 2009 <https://theanarchistlibrary.org/library/david-graeber-are-you-an-anarchist-the-answer-may-surprise-you>
@@ -189,7 +208,7 @@ All of these are fairly short and readable.
 - <https://www.amazon.co.uk/Books-Bernie-Sanders/s?rh=n%3A266239%2Cp_27%3ABernie+Sanders>
 - <https://www.theguardian.com/books/2016/nov/24/four-futures-life-after-capitalism-peter-frase-review-robots>
 - <https://chomsky.info/consent01/>
-- These podcasts are very funny and have lots of good ideas to learn. They generally have 50% free episodes and 50% paywalled. I use AntennaPod (<https://antennapod.org/>) to listen to them all from one place
+- These podcasts are very funny and have lots of good ideas to learn. They generally have 50% free episodes and 50% paywalled. I use AntennaPod (<https://antennapod.org/>) to listen to them all in one place
     - <https://trashfuturepodcast.podbean.com/>
     - *Chapo Trap House* <https://open.spotify.com/show/1ZfEmftOCw3AzhpyCIfFwF>
     - <https://www.stitcher.com/show/qanon-anonymous>
@@ -201,13 +220,14 @@ All of these are fairly short and readable.
     - <https://www.youtube.com/@FoldingIdeas>
     - <https://www.youtube.com/@Shaun_vids>
     - <https://www.youtube.com/@PhilosophyTube>
+    - <https://www.youtube.com/@jREG>
 
 ### Hope
 - The new *Star Wars* TV show was really well made and gave me the optimism and clarity I needed to write this essay. <https://www.disneyplus.com/en-gb/series/star-wars-andor/3xsQKWG00GL5>
 - *Star Trek* is always good for a vision of a positive future <https://www.reddit.com/r/startrek/comments/ghl0xf/tng_best_watch_itskip_it_guide/> <https://www.reddit.com/r/DaystromInstitute/wiki/algernonguide_ds9>
 - *The Internationale* is a worldwide Communist anthem written by an Anarchist and scored by a Marxist, centuries ago. It's very positive and has been translated into basically every language. If your preferred language doesn't have a translation, try to make one! <https://en.m.wikipedia.org/wiki/The_Internationale> English version: <https://youtu.be/9LbziknNpCE> Rendition of the original French version: <https://youtu.be/IcS_sjbJNDI>
 
-[^discobaby]: Don't Google this phrase because I mostly ripped it off wholesale from Disco Elysium and you'll get spoilers. Play the game first.
+[^discobaby]: Don't Google this phrase because I mostly ripped it off wholesale from Disco Elysium and you'll get spoilers. Play the game first. It could also basically fit into every category of the above [Where to next](#where-to-next) section
 [^whoopsie]: <https://en.wikipedia.org/wiki/Red_fascism>
 [^science]: <http://philotextes.info/spip/IMG/pdf/popper-logic-scientific-discovery.pdf>
 [^cthulhu]: *The CALL of CTHULHU*, Harry Potter Lovecraft, 1928 <https://www.gutenberg.org/cache/epub/68283/pg68283-images.html>
@@ -215,6 +235,9 @@ All of these are fairly short and readable.
 [^goosestep]: <https://slate.com/news-and-politics/2003/01/goose-stepping-the-dance-craze-of-tyrants.html>
 [^marx]: <https://www.marxists.org/archive/marx/works/1848/communist-manifesto/ch02.htm>
 [^maslow]: <https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs>
+[^likeaminecraftvillagerlolhgnrghgnuhhhnhhhh]: <https://www.independent.co.uk/space/elon-musk-made-money-rich-b2212599.html>
+[^restrictact]: <https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/07/statement-from-national-security-advisor-jake-sullivan-on-the-introduction-of-the-restrict-act/>
+[^twitter]: <https://twitterisgoinggreat.com/>
 [^thisislikegeorgeorwellsuhhbookninteeneightyfour]: *Animal Farm*, George Orwell, 1945 <http://gutenberg.net.au/ebooks01/0100011h.html#ch3>
 [^morewell]: <https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/>
 [^nightmares]: <https://www.marxists.org/archive/marx/works/1852/18th-brumaire/ch01.htm>
@@ -228,6 +251,7 @@ All of these are fairly short and readable.
 [^marseillaise]: *French MPs sing Marseillaise and boo as PM forces through pension reform bill*, Guardian News, 2023 <https://youtu.be/E5U6A2zuWyI>
 [^debout]: *King Charles's France visit postponed after pension protests*, BBC, 2023 <https://www.bbc.co.uk/news/uk-65064510>
 [^copcity]: <https://crimethinc.com/2023/02/22/the-forest-in-the-city-two-years-of-forest-defense-in-atlanta-georgia>
+[^impossibility]: *DS9 Season 6 Extras - Far Beyond the Stars*, Avery Brooks/Paramount Television, 1998 <https://youtu.be/e_KsbNmVjJc&t=173s>
 [^smallpox]: <https://www.nationalgeographic.com/science/article/smallpox>
 [^nfts]: *Line Goes Up – The Problem With NFTs*, Folding Ideas (Dan Olson), 2022 <https://youtu.be/YQ_xWvX1n9g>
 
