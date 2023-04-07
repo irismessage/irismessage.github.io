@@ -25,9 +25,9 @@ So what do we do now? I think it's time for communists to come out of the woodwo
 
 The Plan
 1. Tweet "#IamACommunist"
-    This is the least you can do. Most people have a Twitter account already and if you don't have one already you can make one for free in five  minutes. You can also post the same message on any other platform, or even yell it out in public if you have no self consciousness.
+    - This is the least you can do. Most people have a Twitter account already and if you don't have one already you can make one for free in five  minutes. You can also post the same message on any other platform, or even yell it out in public if you have no self consciousness.
 2. Arrange public demonstrations
-    This part is key. Online demonstration is something, but also, twitter is bullshit. In-person demonstrations will be the most important part for the movement. Every left-learning organisation in the world should begin planning public protests for the 1st of May
+    - This part is key. Online demonstration is something, but also, twitter is bullshit. In-person demonstrations will be the most important part for the movement. Every left-learning organisation in the world should begin planning public protests for the 1st of May
 3. Get ready to vote
 
 There is no other way we can win. Appealing to the moderate right has been an absolute failure: the press calls us communist, the moderates recognise that communism is bad, and fall back in line, voting for "sensible" parties. Once we declare our allegiance to Communism and Worldwide Human Rights, the press will be forced to fall in line for once.
