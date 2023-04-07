@@ -22,6 +22,13 @@ Unfortunately, communist political parties are basically nonexistent in Euroamer
 
 So what do we do now? I think it's time for communists to come out of the woodwork en masse. Tens of thousands of people around the world are still hardcore believers in communism, with millions or even billions more ready to turn as soon as the spark is lit. It's time for every left-leaning person around the world to stand up and shout "I am a Communist!" The Internet provides the means for us to organise this action. I propose a date of 2023-05-01, the First of May. Once we declare our allegiance and bring communism into the public eye again, millions will join us. This is the strategy that the LGBT+ community invented with the Stonewall Rebellion: We're here, we're Queer, Put up with it. It's time for leftists to declare: We're here, we're Communist, Put up with it.
 
+The Plan
+1. Tweet "#IamACommunist"
+    This is the least you can do. Most people have a Twitter account already and if you don't have one already you can make one for free in five  minutes. You can also post the same message on any other platform, or even yell it out in public if you have no self consciousness.
+2. Arrange public demonstrations
+    This part is key. Online demonstration is something, but also, twitter is bullshit. In-person demonstrations will be the most important part for the movement. Every left-learning organisation in the world should begin planning public protests for the 1st of May
+3. Get ready to vote
+
 There is no other way we can win. Appealing to the moderate right has been an absolute failure: the press calls us communist, the moderates recognise that communism is bad, and fall back in line, voting for "sensible" parties. Once we declare our allegiance to Communism and Worldwide Human Rights, the press will be forced to fall in line for once.
 
 ![An image for the embed](https://upload.wikimedia.org/wikipedia/commons/e/e8/Pyramid_of_Capitalist_System.jpg)
