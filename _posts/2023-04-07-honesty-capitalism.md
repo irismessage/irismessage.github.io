@@ -2,7 +2,7 @@
 title: It's Time to Start Being Honest About Capitalism
 date: 2023-04-07 16:45:02 +0100
 tags: politics marxism communism anarchism hope
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Pyramid_of_Capitalist_System.jpg/370px-Pyramid_of_Capitalist_System.jpg
+image: /assets/images/Pyramid_of_Capitalist_System.jpg
 ---
 
 <!-- # It's Time to Start Being Honest About Capitalism -->
@@ -32,6 +32,6 @@ The Plan
 
 There is no other way we can win. Appealing to the moderate right has been an absolute failure: the press calls us communist, the moderates recognise that communism is bad, and fall back in line, voting for "sensible" parties. Once we declare our allegiance to Communism and Worldwide Human Rights, the press will be forced to fall in line for once.
 
-![An image for the embed](https://upload.wikimedia.org/wikipedia/commons/e/e8/Pyramid_of_Capitalist_System.jpg)
+![An image for the embed](/assets/images/Pyramid_of_Capitalist_System.jpg)
 
 *Cartoon published by IWW, 1911, Public Domain*
