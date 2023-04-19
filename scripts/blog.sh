@@ -1,5 +1,5 @@
 #!/bin/sh
-set -x
+set -eux
 cd "~/src/joelsgp.github.io"
 "$VISUAL" .
 .scripts/serve.sh
