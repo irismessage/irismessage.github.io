@@ -49,11 +49,16 @@ locale: en_GB
 minima:
     date_format: "%Y-%m-%d"
 
+    # https://github.com/jekyll/minima/tree/2.5-stable#social-networks
     social_links:
         github: joelsgp
         gitlab:
         - username: joelsgp
           instance: gitlab.com
+        mastodon:
+        - username: sgp
+          instance: mastodon.online
+        twitter: JMB_9
         youtube_channel: UC9uiKKat6M6CBLaXOEsIhcA
         youtube_channel_name: Sgp10
 
