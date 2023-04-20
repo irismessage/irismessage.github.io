@@ -1,5 +1,6 @@
 {% comment %}
-  https://github.com/jekyll/minima/blob/master/_includes/footer.html
+  <!-- https://github.com/jekyll/minima/blob/2.5-stable/_includes/footer.html -->
+  <!-- This changes the third column to unescape the site description so I can put links in it -->
 {% endcomment %}
 
 <footer class="site-footer h-card">
@@ -30,7 +31,7 @@
       </div>
 
       <div class="footer-col footer-col-3">
-        <p>{{ site.footer_desc }}</p>
+        <p>{{- site.footer_desc -}}</p>
       </div>
     </div>
 

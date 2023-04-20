@@ -18,7 +18,7 @@ author: jmcb
 email: joelsgp@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://joels.me" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
@@ -45,17 +45,20 @@ banner:
 # https://github.com/jekyll/jekyll-seo-tag
 locale: en_GB
 
-# https://github.com/jekyll/minima
+# https://github.com/jekyll/minima/tree/2.5-stable#change-default-date-format
 minima:
     date_format: "%Y-%m-%d"
 
-    social_links:
-        github: joelsgp
-        gitlab:
-        - username: joelsgp
-          instance: gitlab.com
-        youtube_channel: UC9uiKKat6M6CBLaXOEsIhcA
-        youtube_channel_name: Sgp10
+# https://github.com/jekyll/minima/tree/2.5-stable#social-networks
+twitter_username: JMB_9
+github_username: joelsgp
+youtube_username: Sgp10
+gitlab:
+ - username: joelsgp
+   instance: gitlab.com
+mastodon:
+ - username: sgp
+   instance: mastodon.online
 
 
 
