@@ -27,10 +27,6 @@ plugins:
     - jekyll-feed
     # - jekyll-category-pages
 
-footer_desc: >-
-    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a> on all material unless otherwise stated. <br>
-    <a href="https://jekyllrb.com/">Jekyll</a> powered. <br>
-    <a href="https://github.com/joelsgp/joelsgp.github.io/">Source</a> on GitHub.
 category_descs:
     solutions: The namesake of the website. When I can't find a solution to a problem on the web, I'll post it here, like one-sided stackoverflow. <https://xkcd.com/979/>
     assets: Random assets I want to share, like github gists but for miscellaneous .psd files.
