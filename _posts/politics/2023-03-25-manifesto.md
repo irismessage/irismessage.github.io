@@ -3,6 +3,7 @@ title: Political Treatise
 date: 2023-03-26 22:03:07 +0100
 tags: politics manifesto cw marxism communism anarchism hope
 category: WIP
+published: false
 ---
 
 # The Guerrilla Education Manifesto

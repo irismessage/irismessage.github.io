@@ -1,6 +1,7 @@
 ---
 title: Peace, Violence, and Revolution
 date: 2023-04-07 18:14:30 +0100
+published: false
 ---
 
 Throughout history the relationship between peace and violence has been hotly debated. Everyone agrees that peace is generally good and violence is generally bad. However, many have argued that violence can be necessary to create peace. Many peaceful philosophies have employed "warrior monks" to protect their fragile peace. This was necessary because they couldn't spread general peace across the entire world yet: they didn't even know the size of the entire world at that point. They were forced to create their little pocket of peace and protect it by learning to practice violence, in case violence ever became necessary.

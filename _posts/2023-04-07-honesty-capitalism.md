@@ -3,6 +3,7 @@ title: It's Time to Start Being Honest About Capitalism
 date: 2023-04-07 16:45:02 +0100
 tags: politics marxism communism anarchism hope
 image: /assets/images/Pyramid_of_Capitalist_System.jpg
+published: false
 ---
 
 <!-- # It's Time to Start Being Honest About Capitalism -->
