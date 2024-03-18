@@ -8,7 +8,9 @@ permalink: /:year/:month/:day/:title:output_ext
 
 ## Introduction
 
+{% comment %}
 This article has been a fair undertaking and is currently a work in progress. I'm going to add sections about my research, some background, and a way I'm working on to make the mod easier to distribute, and even customisable. For now, enjoy this comprehensive guide to setting up the glitch in its simplest form.
+{% endcomment %}
 
 ## Solution
 

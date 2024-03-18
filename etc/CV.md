@@ -10,10 +10,10 @@ tags: qualifications employment
 
 ### Skills
 - Python, 8 years experience, amateur expertise
-- Git SCM, 5 years experience, understanding of usage and workings by reading [the official book](https://git-scm.com/book/)
-- Workable knowledge: SQL, Javascript, HTML & CSS, Java, Lua
-- Digital media skills, familiar with Photoshop, Premiere Pro, Audacity, FFmpeg, Youtube, social media, knowledge of data representation and file standards, avid photographer using a [bridge camera](https://en.wikipedia.org/wiki/Bridge_camera)
-- General computer skills, well-practiced and efficient, including office software like Libreoffice, Word, and Excel
+- Git SCM, 5 years experience, understanding of usage and workings from reading [the official book](https://git-scm.com/book/)
+- Workable knowledge: SQL, JavaScript, HTML & CSS, Java, Lua
+- Digital media skills, familiar with Photoshop, Premiere Pro, Audacity, FFmpeg, YouTube, social media, knowledge of data representation and file standards, avid photographer using a [bridge camera](https://en.wikipedia.org/wiki/Bridge_camera)
+- General computer skills, well-practiced and efficient, including office software like LibreOaffice, Word, and Excel
 - Written English, excellent spelling and grammar, high reading comprehension and speed
 - French language, intermediate
 - QWERTY touch typing 90 WPM ([Ratatype](https://www.ratatype.com/u2570919/certificate/))
@@ -29,7 +29,7 @@ tags: qualifications employment
     - [Snake for Casio BASIC on an FX-9750GII calculator](https://github.com/joelsgp/casio-basic)
     - [BIDE](https://github.com/joelsgp/BIDE), my fork of the BASIC IDE for Casio BASIC. A useful Java application with a horrid codebase, I comprehensively cleaned up the project structure and created a Maven build pipeline, then did a bunch of refactoring.
     - [MultiOgarII](https://github.com/joelsgp/MultiOgarII), my fork of a popular free server in node.js for the viral agar.io game – I made some bug fixes and improvements.
-    - Typo fix and documentation contributions to major projects – [cpython](https://github.com/python/cpython/commits?author=joelsgp), [sqlalchemy](https://github.com/sqlalchemy/sqlalchemy/commits?author=joelsgp), [python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit/commits?author=joelsgp), [Arch Linux tools](https://gitlab.archlinux.org/archlinux/mkinitcpio/mkinitcpio/-/merge_requests/240), [fwupd](https://github.com/fwupd/fwupd/commits?author=joelsgp)
+    - Typo fix and documentation contributions to major projects – [cpython](https://github.com/python/cpython/commits?author=joelsgp), [sqlalchemy](https://github.com/sqlalchemy/sqlalchemy/commits?author=joelsgp), [python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit/commits?author=joelsgp), [Arch Linux tools](https://gitlab.archlinux.org/archlinux/mkinitcpio/mkinitcpio/-/merge_requests/240), [fwupd](https://github.com/fwupd/fwupd/commits?author=joelsgp), [black](https://github.com/psf/black/commits?author=joelsgp)
     - [Bros](https://github.com/joelsgp/Bros), a PICO-8 port of an obscure Atari 800XL game. My latest and greatest project, featuring emulation, datamining, assembly, Python scripts, and Lua game code.
 - Personal website (WIP) <https://joels.me/>
     A few help guides, programming opinion, some pretty good research on the retro games stuff. Made in Jekyll for GitHub Pages, so mostly markdown with some custom html, css, js, config files and helper scripts. CC BY-NC-SA 4.0 ([source](https://github.com/joelsgp/joelsgp.github.io/))
@@ -66,10 +66,10 @@ tags: qualifications employment
 I am a member of the Computer Science Society (HackSoc). I regularly volunteer to help on
 forums like stackoverflow and the python discord. I would say I have fast learning and
 excellent memory for things I’m interested in. My work experience is limited: Fiverr (see
-above), dogsitting, and volunteering at an RVS shop/cafe in a hospital. I use a ThinkPad
+above), dog-sitting, and volunteering at an RVS shop/cafe in a hospital. I use a ThinkPad
 x280 and a mid-range custom built PC, both with with Arch/KDE plus Windows 11.
 
-I like to contribute to free projects, such as Wikipedia, fan wikis, MUsicBrainz, and OpenStreetMap (links on request), plus all the free software above, of course. In terms of employable skills, this helps me practise writing in a documentation style, and gives me a good understanding of wiki-based data models and GIS.
+I like to contribute to free projects, such as Wikipedia, fan wikis, MusicBrainz, and OpenStreetMap (links on request), plus all the free software above, of course. In terms of employable skills, this helps me practise writing in a documentation style, and gives me a good understanding of wiki-based data models and GIS.
 
 ### Notes
 

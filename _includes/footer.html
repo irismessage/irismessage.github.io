@@ -1,6 +1,6 @@
 {% comment %}
   <!-- https://github.com/jekyll/minima/blob/2.5-stable/_includes/footer.html -->
-  <!-- This changes the third column to unescape the site description so I can put links in it -->
+  <!-- This manually adds my site description to the third column, so I can use links -->
 {% endcomment %}
 
 <footer class="site-footer h-card">
@@ -31,7 +31,12 @@
       </div>
 
       <div class="footer-col footer-col-3">
-        <p>{{- site.footer_desc -}}</p>
+        <p>
+          <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a> on all material unless otherwise stated.
+          <br> <a href="https://jekyllrb.com/">Jekyll</a> powered.
+          <br> <a href="https://github.com/joelsgp/joelsgp.github.io/">Source</a> on GitHub.
+          <br> <a href="https://umami.is/">umami</a> tracking (limited and easy to opt out of - <a href="/about">about</a>).
+        </p>
       </div>
     </div>
 
