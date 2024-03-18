@@ -18,7 +18,8 @@ author: jmcb
 email: joelsgp@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://joels.me" # the base hostname & protocol for your site, e.g. http://example.com
+#url: "https://joels.me" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://joelsgp.github.io"
 
 # Build settings
 markdown: kramdown
