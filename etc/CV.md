@@ -4,7 +4,7 @@ date: 2022-05-09 20:41:40 +0100
 tags: qualifications employment
 ---
 
-## Joel S
+## IM
 
 ![Profile banner image](/assets/images/dog.jpg){:width="30%"}
 
@@ -20,19 +20,19 @@ tags: qualifications employment
 - AZERTY touch typing 60 WPM
 
 ### Portfolio
-- GitHub account <https://github.com/joelsgp/>
-    Features pretty much every programming project I've worked on, under free licenses. Profile pins have a fairly good spread, with many more in [the full listing](https://github.com/joelsgp?tab=repositories) and one or two on my [GitLab](https://gitlab.com/joelsgp).
-    - [snakeboxed](https://github.com/joelsgp/snakeboxed), Python, a social media (Discord) bot that runs arbitrary Python code in a sandboxed environment and searches documentation, for education and collaboration purposes. Discord is a great dev platform for learners because it lets you write code for a simple, event-based, cli-like platform and then use that code in user-friendly and social setting. I made a number of other social media bots for Reddit, Discord, and Twitter.
-    - [Zarya](https://github.com/joelsgp/zarya), a text adventure game in Python. I also ported it to Discord.
-    - [A flask web app](https://github.com/joelsgp/get-banned-challenge)
-    - [A command line script using youtube-dl and ffmpeg to make timelapses](https://github.com/joelsgp/auto-timelapse-script)
-    - [Snake for Casio BASIC on an FX-9750GII calculator](https://github.com/joelsgp/casio-basic)
-    - [BIDE](https://github.com/joelsgp/BIDE), my fork of the BASIC IDE for Casio BASIC. A useful Java application with a horrid codebase, I comprehensively cleaned up the project structure and created a Maven build pipeline, then did a bunch of refactoring.
-    - [MultiOgarII](https://github.com/joelsgp/MultiOgarII), my fork of a popular free server in node.js for the viral agar.io game – I made some bug fixes and improvements.
-    - Typo fix and documentation contributions to major projects – [cpython](https://github.com/python/cpython/commits?author=joelsgp), [sqlalchemy](https://github.com/sqlalchemy/sqlalchemy/commits?author=joelsgp), [python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit/commits?author=joelsgp), [Arch Linux tools](https://gitlab.archlinux.org/archlinux/mkinitcpio/mkinitcpio/-/merge_requests/240), [fwupd](https://github.com/fwupd/fwupd/commits?author=joelsgp), [black](https://github.com/psf/black/commits?author=joelsgp)
-    - [Bros](https://github.com/joelsgp/Bros), a PICO-8 port of an obscure Atari 800XL game. My latest and greatest project, featuring emulation, datamining, assembly, Python scripts, and Lua game code.
-- Personal website (WIP) <https://joels.me/>
-    A few help guides, programming opinion, some pretty good research on the retro games stuff. Made in Jekyll for GitHub Pages, so mostly markdown with some custom html, css, js, config files and helper scripts. CC BY-NC-SA 4.0 ([source](https://github.com/joelsgp/joelsgp.github.io/))
+- GitHub account <https://github.com/irismessage/>
+    Features pretty much every programming project I've worked on, under free licenses. Profile pins have a fairly good spread, with many more in [the full listing](https://github.com/irismessage?tab=repositories) and one or two on my [GitLab](https://gitlab.com/irismessage).
+    - [snakeboxed](https://github.com/irismessage/snakeboxed), Python, a social media (Discord) bot that runs arbitrary Python code in a sandboxed environment and searches documentation, for education and collaboration purposes. Discord is a great dev platform for learners because it lets you write code for a simple, event-based, cli-like platform and then use that code in user-friendly and social setting. I made a number of other social media bots for Reddit, Discord, and Twitter.
+    - [Zarya](https://github.com/irismessage/zarya), a text adventure game in Python. I also ported it to Discord.
+    - [A flask web app](https://github.com/irismessage/get-banned-challenge)
+    - [A command line script using youtube-dl and ffmpeg to make timelapses](https://github.com/irismessage/auto-timelapse-script)
+    - [Snake for Casio BASIC on an FX-9750GII calculator](https://github.com/irismessage/casio-basic)
+    - [BIDE](https://github.com/irismessage/BIDE), my fork of the BASIC IDE for Casio BASIC. A useful Java application with a horrid codebase, I comprehensively cleaned up the project structure and created a Maven build pipeline, then did a bunch of refactoring.
+    - [MultiOgarII](https://github.com/irismessage/MultiOgarII), my fork of a popular free server in node.js for the viral agar.io game – I made some bug fixes and improvements.
+    - Typo fix and documentation contributions to major projects – [cpython](https://github.com/python/cpython/commits?author=irismessage), [sqlalchemy](https://github.com/sqlalchemy/sqlalchemy/commits?author=irismessage), [python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit/commits?author=irismessage), [Arch Linux tools](https://gitlab.archlinux.org/archlinux/mkinitcpio/mkinitcpio/-/merge_requests/240), [fwupd](https://github.com/fwupd/fwupd/commits?author=irismessage), [black](https://github.com/psf/black/commits?author=irismessage)
+    - [Bros](https://github.com/irismessage/Bros), a PICO-8 port of an obscure Atari 800XL game. My latest and greatest project, featuring emulation, datamining, assembly, Python scripts, and Lua game code.
+- Personal website (WIP) <https://irises.me/>
+    A few help guides, programming opinion, some pretty good research on the retro games stuff. Made in Jekyll for GitHub Pages, so mostly markdown with some custom html, css, js, config files and helper scripts. CC BY-NC-SA 4.0 ([source](https://github.com/irismessage/irismessage.github.io/))
 - Fiverr <https://www.fiverr.com/jmcb17/>
     I completed some Python programming commissions and received four lots of five-star feedback. Most of the commissions were written as free software and are also on my GitHub.
 - Arch User Repository <https://aur.archlinux.org/account/jmcb>

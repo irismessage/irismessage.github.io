@@ -15,4 +15,4 @@ My website will fully respect your do-not-track setting, and if you want to be c
 
 This doesn't collect much data at all, just what language your browser is set to, and an anonymous total of how many times each page has been visited. The full details are here (under the Pageviews subheading): <https://umami.is/docs/tracker-functions>
 
-Furthermore you can view all the data publicly here: <https://analytics.umami.is/share/Cs0XCZj1hvgxB5R4/joels.me>
+Furthermore you can view all the data publicly here: <https://analytics.umami.is/share/Cs0XCZj1hvgxB5R4/irises.me>

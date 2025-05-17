@@ -14,12 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Solutions
-author: jmcb
-email: joelsgp@protonmail.com
+author: imcb
+email: irismessage@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
-#url: "https://joels.me" # the base hostname & protocol for your site, e.g. http://example.com
-url: "https://joelsgp.github.io"
+#url: "https://irises.me" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://irismessage.github.io"
 
 # Build settings
 markdown: kramdown
@@ -47,16 +47,11 @@ minima:
     date_format: "%Y-%m-%d"
 
 # https://github.com/jekyll/minima/tree/2.5-stable#social-networks
-twitter_username: JMB_9
-github_username: joelsgp
+github_username: irismessage
 youtube_username: Sgp10
 gitlab:
- - username: joelsgp
+ - username: irismessage
    instance: gitlab.com
-mastodon:
- - username: sgp
-   instance: mastodon.online
-
 
 
 # Exclude from processing.

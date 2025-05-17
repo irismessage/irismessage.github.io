@@ -1,1 +1,1 @@
-BLOG OF "JOEL"
+BLOG OF ""

@@ -6,7 +6,7 @@ tags:
 
 ## PC Tower
 
-<https://uk.pcpartpicker.com/user/joelsgp/saved/#view=LVwPJx>
+<https://uk.pcpartpicker.com/user/asdfkjl/saved/#view=LVwPJx>
 
 - Ryzen 5 3600
 - 16GB memory

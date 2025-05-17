@@ -22,7 +22,7 @@ To play King's Quit you need any normal release of the 1991 multimedia version, 
 
 Use any one of these links.
 
-- This website [KQ5.zip](https://github.com/joelsgp/joelsgp.github.io/raw/main/assets/KQ5.zip)
+- This website [KQ5.zip](https://github.com/irismessage/irismessage.github.io/raw/main/assets/KQ5.zip)
 
     My mirror removes the original audio file, as you will be replacing it. It also removes the floppy disk version, which isn't the one we need. The download size is about 10MB.
 
@@ -63,7 +63,7 @@ You can also refer to this video I recorded which shows the same steps as well a
 </div>
 
 
-1. Create a folder to install the game in. I use `C:\Users\joelm\dos`, a directory named `dos` that I created in my user folder. If you keep the folder address short by creating it directly in your user folder, it makes using DOSBox easier.
+1. Create a folder to install the game in. I use `C:\Users\irism\dos`, a directory named `dos` that I created in my user folder. If you keep the folder address short by creating it directly in your user folder, it makes using DOSBox easier.
 
 2. Install DOSBox.
 
@@ -113,8 +113,8 @@ You can also refer to this video I recorded which shows the same steps as well a
     2. In dosbox, run these commands.
 
         ```dosbatch
-        mount c C:\Users\joelm\dos\harddrive
-        mount d C:\Users\joelm\dos\KQ5
+        mount c C:\Users\irism\dos\harddrive
+        mount d C:\Users\irism\dos\KQ5
         d:
         install
         ```
@@ -144,8 +144,8 @@ You can also refer to this video I recorded which shows the same steps as well a
     ```dosbatch
     # Lines in this section will be run at startup.
     # You can put your MOUNT lines here.
-    MOUNT c C:\Users\joelm\dos\harddrive
-    MOUNT d C:\Users\joelm\dos\KQ5
+    MOUNT c C:\Users\irism\dos\harddrive
+    MOUNT d C:\Users\irism\dos\KQ5
     c:
     dir
     cd SIERRA
